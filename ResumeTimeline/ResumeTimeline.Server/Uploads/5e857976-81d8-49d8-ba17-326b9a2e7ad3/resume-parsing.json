@@ -1,0 +1,424 @@
+{
+  "companies": [
+    {
+      "name": "Exadel (formerly Coppei)",
+      "startDate": "04/2021",
+      "endDate": "Present"
+    },
+    {
+      "name": "Neuron Edge Technologies LLC",
+      "startDate": "12/2019",
+      "endDate": "04/2021"
+    },
+    {
+      "name": "Speckeye Technology",
+      "startDate": "06/2012",
+      "endDate": "10/2019"
+    },
+    {
+      "name": "Fedaso || Orone Group",
+      "startDate": "04/2010",
+      "endDate": "05/2012"
+    }
+  ],
+  "projects": [
+    {
+      "client": "US Air Force"
+    },
+    {
+      "client": "Microsoft Global Data Center Division"
+    },
+    {
+      "client": "T-Mobile"
+    }
+  ],
+  "education": {
+    "university": "University of Michigan",
+    "degree": "B.S. Mathematics",
+    "minor": "Computer Science"
+  },
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Nodejs",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI",
+    "Clojure",
+    "ASP.NET",
+    "Apache Camel",
+    "Apache Kafka",
+    "RabbitMQ",
+    "MQTT",
+    "AMQP",
+    "XMPP",
+    "PULSAR",
+    "REST APIs",
+    "Microservices",
+    "GraphQL",
+    "CUDA",
+    "OpenCL",
+    "OpenGL",
+    "Vulkan",
+    "DirectX",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Snowflake",
+    "Oracle",
+    "MS SQL",
+    "JOOQ",
+    "Hibernate",
+    "Ibatis",
+    "VGGNet",
+    "AlexNet",
+    "GoogleNet",
+    "ResNet",
+    "Scikit-learn",
+    "XGBoost",
+    "LightGBM",
+    "Deep Learning",
+    "CNN",
+    "LSTM",
+    "GAN",
+    "Transformers",
+    "Hugging Face Transformers",
+    "Stanford CoreNLP",
+    "spaCy",
+    "NLTK",
+    "BERT",
+    "OpenCV",
+    "YOLO",
+    "R-CNN",
+    "Caffe",
+    "Theano",
+    "Apache MXNet",
+    "NumPy",
+    "SciPy",
+    "AWS",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "GitLab Pipeline",
+    "Travis CI",
+    "Terraform",
+    "Helm",
+    "Databricks",
+    "Apache Spark",
+    "Hadoop",
+    "React.js",
+    "Angular",
+    "SwiftUI",
+    "Vaadin",
+    "Redux",
+    "MobX",
+    "Webpack",
+    "Babel",
+    "Tailwind",
+    "Material-UI",
+    "Jest",
+    "Cypress",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "Raspberry Pi",
+    "NVIDIA Jetson",
+    "Odroid",
+    "UDOO x86",
+    "Arduino",
+    "IBM 308x-309x series mainframes running MVS (TSO Shell)",
+    "DOS/VSE",
+    "IBM x.86 PCs/Servers running Windows and Linux",
+    "English",
+    "French"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript",
+        "Java",
+        "Clojure",
+        "C++",
+        "ASP.NET",
+        "Raspberry Pi",
+        "NVIDIA Jetson",
+        "Odroid",
+        "UDOO x86",
+        "Arduino",
+        "English",
+        "French",
+        "Clojure",
+        "SwiftUI",
+        "JavaScript (ES6+)"
+      ]
+    },
+    {
+      "categoryName": "Backend Frameworks",
+      "technologies": [
+        "Spring Boot",
+        "Spring Cloud",
+        "Spring Boot",
+        "Nodejs",
+        "ASP.NET",
+        "Apache Camel",
+        "Apache Kafka",
+        "RabbitMQ",
+        "MQTT",
+        "AMQP",
+        "PULSAR",
+        "REST APIs",
+        "Microservices",
+        "GraphQL"
+      ]
+    },
+    {
+      "categoryName": "Message Queues",
+      "technologies": [
+        "Kafka",
+        "Zookeeper",
+        "RabbitMQ",
+        "MQTT",
+        "Apache Kafka",
+        "AMQP",
+        "PULSAR",
+        "MQTT"
+      ]
+    },
+    {
+      "categoryName": "Containerization & Orchestration",
+      "technologies": [
+        "Kubernetes",
+        "Docker",
+        "Kubernetes",
+        "Docker",
+        "Kubernetes",
+        "Docker"
+      ]
+    },
+    {
+      "categoryName": "Cloud Providers",
+      "technologies": [
+        "Azure Map",
+        "Azure Data Factory & Databricks",
+        "Azure",
+        "AWS",
+        "AWS",
+        "AWS",
+        "Gitlab",
+        "Gitlab"
+      ]
+    },
+    {
+      "categoryName": "Data Stores",
+      "technologies": [
+        "MsSql",
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "Snowflake",
+        "Snowflake",
+        "Oracle",
+        "MS SQL",
+        "MongoDB",
+        "JOOQ",
+        "Hibernate",
+        "Ibatis",
+        "Snowflake",
+        "Oracle",
+        "MS SQL"
+      ]
+    },
+    {
+      "categoryName": "ML & DL Libraries",
+      "technologies": [
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "CNN",
+        "LSTM",
+        "GAN",
+        "Transformers",
+        "Hugging Face Transformers",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "Deep Learning",
+        "VGGNet",
+        "AlexNet",
+        "GoogleNet",
+        "ResNet",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM"
+      ]
+    },
+    {
+      "categoryName": "Computer Vision Libraries",
+      "technologies": [
+        "OpenCV",
+        "YOLO",
+        "R-CNN",
+        "Caffe",
+        "Theano",
+        "Apache MXNet",
+        "OpenCV"
+      ]
+    },
+    {
+      "categoryName": "Natural Language Processing Libraries",
+      "technologies": [
+        "Stanford CoreNLP",
+        "spaCy",
+        "NLTK",
+        "BERT",
+        "spaCy",
+        "Stanford CoreNLP"
+      ]
+    },
+    {
+      "categoryName": "Frontend Libraries",
+      "technologies": [
+        "ReactJS",
+        "Nodejs",
+        "ReactJS",
+        "Angular",
+        "Vaadin",
+        "Redux",
+        "MobX",
+        "Material-UI",
+        "React.js",
+        "Angular",
+        "ReactJS"
+      ]
+    },
+    {
+      "categoryName": "Testing Tools",
+      "technologies": [
+        "Selenium",
+        "JMeter",
+        "Splunk",
+        "Jest",
+        "Cypress",
+        "TypeScript",
+        "JavaScript (ES6+)"
+      ]
+    },
+    {
+      "categoryName": "Data Privacy Tools",
+      "technologies": [
+        "OneTrust",
+        "Collibra"
+      ]
+    },
+    {
+      "categoryName": "Version Control",
+      "technologies": [
+        "Gitlab",
+        "Gitlab Pipeline",
+        "Travis CI"
+      ]
+    },
+    {
+      "categoryName": "CI/CD Tools",
+      "technologies": [
+        "Gitlab Pipeline",
+        "Travis CI"
+      ]
+    },
+    {
+      "categoryName": "UI Frameworks",
+      "technologies": [
+        "Tailwind",
+        "Material-UI"
+      ]
+    },
+    {
+      "categoryName": "Build Tools",
+      "technologies": [
+        "Webpack",
+        "Babel"
+      ]
+    },
+    {
+      "categoryName": "Game Engines",
+      "technologies": [
+        "Unreal Engine",
+        "Cesium Ion"
+      ]
+    },
+    {
+      "categoryName": "Hardware Platforms",
+      "technologies": [
+        "Raspberry Pi",
+        "NVIDIA Jetson",
+        "Odroid",
+        "UDOO x86",
+        "Arduino"
+      ]
+    }
+  ]
+}

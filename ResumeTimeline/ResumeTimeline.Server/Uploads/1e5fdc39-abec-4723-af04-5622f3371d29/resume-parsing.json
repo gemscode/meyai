@@ -1,0 +1,344 @@
+{
+  "companies": [
+    {
+      "name": "Exadel (formerly Coppei)",
+      "startDate": "04/2021",
+      "endDate": "Present"
+    },
+    {
+      "name": "Neuron Edge Technologies LLC",
+      "startDate": "12/2019",
+      "endDate": "04/2021"
+    },
+    {
+      "name": "Speckeye Technology",
+      "startDate": "06/2012",
+      "endDate": "10/2019"
+    },
+    {
+      "name": "Fedaso || Orone Group",
+      "startDate": "04/2010",
+      "endDate": "05/2012"
+    }
+  ],
+  "projects": [
+    {
+      "client": "US Air Force"
+    },
+    {
+      "client": "Microsoft Global Data Center Division"
+    },
+    {
+      "client": "T-Mobile"
+    }
+  ],
+  "education": {
+    "university": "University of Michigan",
+    "degree": "B.S. Mathematics",
+    "minor": "Computer Science"
+  },
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Nodejs",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI",
+    "C++",
+    "C#",
+    "Clojure",
+    "ASP.NET",
+    "Apache Camel",
+    "Apache Kafka",
+    "RabbitMQ",
+    "MQTT",
+    "AMQP",
+    "XMPP",
+    "PULSAR",
+    "REST APIs",
+    "Microservices",
+    "GraphQL",
+    "CUDA",
+    "OpenCL",
+    "OpenGL",
+    "Vulkan",
+    "DirectX",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Snowflake",
+    "Oracle",
+    "MS SQL",
+    "JOOQ",
+    "Hibernate",
+    "Ibatis",
+    "VGGNet",
+    "AlexNet",
+    "GoogleNet",
+    "ResNet",
+    "Scikit-learn",
+    "XGBoost",
+    "LightGBM",
+    "CNN",
+    "LSTM",
+    "GAN",
+    "Transformers",
+    "Hugging Face Transformers",
+    "Stanford CoreNLP",
+    "spaCy",
+    "NLTK",
+    "BERT",
+    "OpenCV",
+    "YOLO",
+    "R-CNN",
+    "Caffe",
+    "Theano",
+    "Apache MXNet",
+    "NumPy",
+    "SciPy",
+    "AWS",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "GitLab Pipeline",
+    "Travis CI",
+    "Terraform",
+    "Helm",
+    "Databricks",
+    "Apache Spark",
+    "Hadoop",
+    "React.js",
+    "Angular",
+    "SwiftUI",
+    "Vaadin",
+    "Redux",
+    "MobX",
+    "Webpack",
+    "Babel",
+    "Tailwind",
+    "Material-UI",
+    "Jest",
+    "Cypress",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "Raspberry Pi",
+    "NVIDIA Jetson",
+    "Odroid",
+    "UDOO x86",
+    "Arduino",
+    "IBM 308x-309x series mainframes running MVS (TSO Shell)",
+    "DOS/VSE",
+    "IBM x.86 PCs/Servers running Windows and Linux"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript",
+        "Tensorflow",
+        "Scikit",
+        "OpenCV"
+      ]
+    },
+    {
+      "categoryName": "Backend Frameworks",
+      "technologies": [
+        "Spring Boot",
+        "Spring Cloud",
+        "Spring Boot"
+      ]
+    },
+    {
+      "categoryName": "Message Brokers",
+      "technologies": [
+        "Kafka",
+        "MQTT",
+        "Hazelcast",
+        "Zookeeper"
+      ]
+    },
+    {
+      "categoryName": "Frontend Frameworks",
+      "technologies": [
+        "ReactJS",
+        "Nodejs"
+      ]
+    },
+    {
+      "categoryName": "Cloud Providers",
+      "technologies": [
+        "AWS",
+        "Azure Map",
+        "Azure Data Factory & Databricks",
+        "MsSql",
+        "Docker",
+        "Kubernetes",
+        "Azure Map",
+        "AWS",
+        "TravisCI"
+      ]
+    },
+    {
+      "categoryName": "Application Servers",
+      "technologies": [
+        "Spring Boot",
+        "Spring Boot",
+        "Spring Cloud"
+      ]
+    },
+    {
+      "categoryName": "Data Stores",
+      "technologies": [
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "MsSql",
+        "Snowflake",
+        "Hashicorp",
+        "Cesium Ion",
+        "MapBox",
+        "Splunk",
+        "Gitlab",
+        "OneTrust",
+        "Collibra",
+        "JMeter"
+      ]
+    },
+    {
+      "categoryName": "Mapping Platforms",
+      "technologies": [
+        "MapBox",
+        "Cesium Ion"
+      ]
+    },
+    {
+      "categoryName": "Game Engines",
+      "technologies": [
+        "Unreal Engine"
+      ]
+    },
+    {
+      "categoryName": "Data Processing",
+      "technologies": [
+        "Azure Data Factory & Databricks",
+        "Databricks"
+      ]
+    },
+    {
+      "categoryName": "Containerization",
+      "technologies": [
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "categoryName": "CI/CD Tools",
+      "technologies": [
+        "TravisCI",
+        "Gitlab"
+      ]
+    },
+    {
+      "categoryName": "Testing Tools",
+      "technologies": [
+        "Selenium",
+        "JMeter"
+      ]
+    },
+    {
+      "categoryName": "Data Streaming Platforms",
+      "technologies": [
+        "Kafka",
+        "MQTT"
+      ]
+    },
+    {
+      "categoryName": "ML Libraries",
+      "technologies": [
+        "Tensorflow",
+        "Scikit"
+      ]
+    },
+    {
+      "categoryName": "Image Processing Libraries",
+      "technologies": [
+        "OpenCV"
+      ]
+    },
+    {
+      "categoryName": "Monitoring Tools",
+      "technologies": [
+        "Splunk"
+      ]
+    },
+    {
+      "categoryName": "Data Visualization Tools",
+      "technologies": [
+        "Visual Paradigm"
+      ]
+    }
+  ]
+}

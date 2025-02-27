@@ -1,0 +1,432 @@
+{
+  "companies": [
+    {
+      "name": "Exadel (formerly Coppei)",
+      "startDate": "04/2021",
+      "endDate": "Present"
+    },
+    {
+      "name": "Neuron Edge Technologies LLC",
+      "startDate": "12/2019",
+      "endDate": "04/2021"
+    },
+    {
+      "name": "Speckeye Technology",
+      "startDate": "06/2012",
+      "endDate": "10/2019"
+    },
+    {
+      "name": "Fedaso || Orone Group",
+      "startDate": "04/2010",
+      "endDate": "05/2012"
+    },
+    {
+      "name": "Additional Experience",
+      "startDate": "",
+      "endDate": "Present"
+    }
+  ],
+  "projects": [
+    {
+      "client": "US Air Force"
+    },
+    {
+      "client": "Microsoft Global Data Center Division"
+    },
+    {
+      "client": "T-Mobile"
+    },
+    {
+      "client": "Speckeye Technology"
+    },
+    {
+      "client": "Fedaso || Orone Group"
+    }
+  ],
+  "education": {
+    "University of Michigan": "B.S. Mathematics, Minor Computer Science"
+  },
+  "technologies": [
+    "C++",
+    "Java (JDK 21)",
+    "Python",
+    "C#",
+    "Clojure",
+    "ASP.NET",
+    "Nodejs",
+    "Spring Suite (Boot 3.2, Security, Cloud, Data)",
+    "Apache Camel",
+    "Apache Kafka",
+    "RabbitMQ",
+    "MQTT",
+    "AMQP",
+    "XMPP",
+    "PULSAR",
+    "REST APIs",
+    "Microservices",
+    "GraphQL",
+    "CUDA",
+    "OpenCL",
+    "OpenGL",
+    "Vulkan",
+    "DirectX",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Snowflake",
+    "Oracle",
+    "MS SQL",
+    "JOOQ",
+    "Hibernate",
+    "Ibatis",
+    "VGGNet",
+    "AlexNet",
+    "GoogleNet",
+    "ResNet",
+    "Scikit-learn",
+    "XGBoost",
+    "LightGBM",
+    "CNN",
+    "LSTM",
+    "GAN",
+    "Transformers",
+    "Hugging Face Transformers",
+    "Stanford CoreNLP",
+    "spaCy",
+    "NLTK",
+    "BERT",
+    "OpenCV",
+    "YOLO",
+    "R-CNN",
+    "Caffe",
+    "Theano",
+    "Apache MXNet",
+    "NumPy",
+    "SciPy",
+    "AWS",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "GitLab Pipeline",
+    "Travis CI",
+    "Terraform",
+    "Helm",
+    "Databricks",
+    "Apache Spark",
+    "Hadoop",
+    "React.js",
+    "Angular",
+    "SwiftUI",
+    "Vaadin",
+    "Redux",
+    "MobX",
+    "Webpack",
+    "Babel",
+    "Tailwind",
+    "Material-UI",
+    "Jest",
+    "Cypress",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "Raspberry Pi",
+    "NVIDIA Jetson",
+    "Odroid",
+    "UDOO x86",
+    "Arduino",
+    "IBM 308x-309x series mainframes running MVS (TSO Shell)",
+    "DOS/VSE",
+    "IBM x.86 PCs/Servers running Windows and Linux",
+    "English",
+    "French"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling",
+    "Principal Architect"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "C#",
+        "Nodejs",
+        "Spring Boot",
+        "ReactJS",
+        "Nodejs",
+        "OpenCV",
+        "Vaadin Framework"
+      ]
+    },
+    {
+      "categoryName": "Message Queues",
+      "technologies": [
+        "Apache Camel",
+        "Apache Kafka",
+        "RabbitMQ",
+        "MQTT",
+        "AMQP"
+      ]
+    },
+    {
+      "categoryName": "APIs and Microservices",
+      "technologies": [
+        "REST APIs",
+        "Spring Cloud",
+        "Microservices",
+        "GraphQL",
+        "Spring Suite (Boot 3.2, Security, Cloud, Data)",
+        "Kafka",
+        "MuleSoft",
+        "Azure Data Factory & Databricks",
+        "Custom probes for service metrics"
+      ]
+    },
+    {
+      "categoryName": "Databases",
+      "technologies": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Snowflake",
+        "Oracle",
+        "MS SQL",
+        "JOOQ",
+        "Hibernate",
+        "Ibatis",
+        "MySQL Workbench",
+        "PostgreSql",
+        "MsSql"
+      ]
+    },
+    {
+      "categoryName": "DevOps Tools",
+      "technologies": [
+        "Gitlab",
+        "GitGuardian",
+        "Selenium",
+        "OneTrust",
+        "Collibra",
+        "JMeter",
+        "Splunk",
+        "iperf3",
+        "Wireshark",
+        "Java VisualVM",
+        "Prometheus",
+        "Grafana",
+        "K6",
+        "Gatling",
+        "Apache Benchmark",
+        "Kubernetes Dashboard",
+        "ELK Stack",
+        "Datadog"
+      ]
+    },
+    {
+      "categoryName": "Visualization and GIS",
+      "technologies": [
+        "MapBox",
+        "Unreal Engine",
+        "Cesium Ion"
+      ]
+    },
+    {
+      "categoryName": "Clusters and Containers",
+      "technologies": [
+        "Kubernetes",
+        "Hazelcast",
+        "Zookeeper"
+      ]
+    }
+  ],
+  "project_technology_links": [
+    {
+      "company": "Exadel (formerly Coppei)",
+      "projects": [
+        {
+          "name": "US Air Force Project",
+          "technologies": [
+            "C++",
+            "Unreal Engine",
+            "Cesium Ion",
+            "Azure Map",
+            "Kubernetes"
+          ],
+          "description": "Developed autonomous flight simulation MVP for US Air Force, incorporating Cesium Ion for navigation training. Architected integration of AirSim with QGroundControl and PX4 server, implementing physics-based weather modeling and collision detection in Unreal Engine with real-world environmental conditions. Created mission planning system with semantic segmentation models for terrain analysis. Designed custom Unreal Engine plugins for AirSim Jet Controller."
+        },
+        {
+          "name": "Microsoft Global Data Center Division Project",
+          "technologies": [
+            "Java",
+            "Unreal Engine",
+            "CesiumJS",
+            "Cesium Ion",
+            "Azure Maps",
+            "Mapbox",
+            "ReactJS",
+            "Node.js",
+            "Kubernetes"
+          ],
+          "description": "Architected end-to-end supply chain visualization platform integrating Azure Maps, Mapbox, CesiumJS and Cesium Ion with Unreal Engine for comprehensive 2D/3D tracking of data center equipment. Developed custom Unreal Engine plugin enabling bidirectional communication between embedded Chromium browser and Unreal Engine for seamless web-to-3D integration. Created React-based dashboard with Node.js backend for monitoring global logistics network including ports, airports, warehouses, and assembly facilities. Implemented multi-layer visualization system: 2D routing and tracking using Azure Maps with Mapbox routing engine, 3D visualization in Cesium Ion with Google Photorealistic 3D Tiles, Real-time 3D facility visualization in Unreal Engine. Created custom React components for seamless switching between 2D and 3D views of supply chain operations."
+        },
+        {
+          "name": "T-Mobile Project",
+          "technologies": [
+            "Java",
+            "Python",
+            "Spring Boot",
+            "Kafka",
+            "MuleSoft",
+            "Kubernetes",
+            "Azure Map",
+            "Azure Data Factory & Databricks",
+            "Spring Cloud",
+            "Hazelcast",
+            "Zookeeper",
+            "ReactJS",
+            "Nodejs",
+            "Vaadin Framework",
+            "MapBox",
+            "Unreal Engine",
+            "Cesium Ion",
+            "Snowflake",
+            "Oracle",
+            "MySql",
+            "PostgreSql",
+            "MsSql",
+            "Gitlab",
+            "GitGuardian",
+            "Selenium",
+            "OneTrust",
+            "Collibra"
+          ],
+          "description": "Architect, construct, and deliver hands-on enterprise solutions for T-Mobile Privacy Platform to optimize functionality for organization. Oversee diverse Engineering, DevOps, and Testing teams, involving organizing daily stand-up meetings, coordinating working sessions, providing mentorship, conducting code reviews, and ensuring security compliance. Automated onboarding of 1K+ internal/external systems for processing privacy requests across T-Mobile's customer base by spearheading conceptualization and delivery of agent-based solutions, while serving as Principal Architect and Developer. Generated reports for trends, auditing, compliance, and various other purposes by leading architecture, design, and development of reporting and analytics platforms for delivering insights to all privacy-related products."
+        }
+      ]
+    },
+    {
+      "company": "Neuron Edge Technologies LLC",
+      "projects": [
+        {
+          "name": "Sensor Platform Project",
+          "technologies": [
+            "Java",
+            "Python",
+            "Nodejs",
+            "Spring Boot",
+            "ReactJS",
+            "Hazlecast",
+            "MQTT",
+            "Tensorflow",
+            "Scikit",
+            "OpenCV",
+            "Graphite",
+            "Puppeteer",
+            "PostgreSql",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "TravisCI"
+          ],
+          "description": "Designed and executed scalable sensor platform connected to cloud by facilitating near real-time data collection and empowering customers in implementing automated adjustments. Utilized machine learning, reinforcement learning, GAN/LSTM networks, unsupervised learning methods, and integrated computer vision algorithms with OpenCV for advanced and efficient solutions."
+        }
+      ]
+    },
+    {
+      "company": "Speckeye Technology",
+      "projects": [
+        {
+          "name": "Check Processing Platform Project",
+          "technologies": [
+            "AI",
+            "Deep Learning"
+          ],
+          "description": "Achieved 99.3% accuracy in deciphering hand-written courtesy amounts by designing, formulating, and executing check processing platform with AI and Deep Learning engine."
+        },
+        {
+          "name": "Currency Options Trading Platform Project",
+          "technologies": [
+            "Black-Scholes model"
+          ],
+          "description": "Managed annual volume surpassing \u20ac2B, incorporating Black-Scholes model by creating dynamic foreign exchange platform with currency options trading."
+        },
+        {
+          "name": "Forex and Commodity Trading Platform Project",
+          "technologies": [
+            "Angular"
+          ],
+          "description": "Migrated Flash-based frontend of a currency trading platform to Angular, enabling real-time updates and order processing for forex and commodity trading. Including futures and options."
+        },
+        {
+          "name": "Contract Validation Platform Project",
+          "technologies": [
+            "Automated",
+            "Telecommunication",
+            "IoT"
+          ],
+          "description": "Secured 1M+ telecommunication contracts and generated financial reports daily by developing extremely scalable and automated contract validation platform. Streamlined KYC onboarding processes by developing Internet of Things (IoT) devices."
+        }
+      ]
+    },
+    {
+      "company": "Fedaso || Orone Group",
+      "projects": [
+        {
+          "name": "EBP\u2019s Public Tender Platform Upgrade Project",
+          "technologies": [
+            "C#.NET",
+            "ASP.NET",
+            "MVC",
+            "separation of concerns"
+          ],
+          "description": "Developed EBP\u2019s public tender platform upgrade using C#.NET backend and ASP.NET frontend, implementing MVC design patterns and separation of concerns. Migrated business logic from stored procedures to dedicated business layer with caching for improved scalability. Created automated B2B tender matching system with custom notification engine for client defined criteria."
+        }
+      ]
+    },
+    {
+      "company": "Additional Experience",
+      "projects": [
+        {
+          "name": "Additional Projects",
+          "technologies": [
+            "Wireshark",
+            "Grafana",
+            "MySQL Workbench",
+            "ELK Stack",
+            "Kubernetes Dashboard",
+            "MySQL",
+            "Microservices",
+            "MS SQL",
+            "Datadog",
+            "Prometheus",
+            "Spring Suite (Boot 3.2, Security, Cloud, Data)",
+            "Ibatis",
+            "Java VisualVM",
+            "Custom probes for service metrics",
+            "REST APIs",
+            "PostgreSQL",
+            "Apache Camel",
+            "JMeter",
+            "Splunk",
+            "Hibernate",
+            "iperf3",
+            "RabbitMQ",
+            "AMQP",
+            "GraphQL",
+            "Apache Kafka",
+            "Gatling",
+            "K6",
+            "JOOQ",
+            "Apache Benchmark",
+            "C#",
+            "MongoDB"
+          ],
+          "description": "Additional technical experience and tools"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "companies": [
+    {
+      "name": "Exadel (formerly Coppei)",
+      "startDate": "04/2021",
+      "endDate": "Present"
+    },
+    {
+      "name": "Neuron Edge Technologies LLC",
+      "startDate": "12/2019",
+      "endDate": "04/2021"
+    },
+    {
+      "name": "Speckeye Technology",
+      "startDate": "06/2012",
+      "endDate": "10/2019"
+    },
+    {
+      "name": "Fedaso || Orone Group",
+      "startDate": "04/2010",
+      "endDate": "05/2012"
+    }
+  ],
+  "projects": [
+    {
+      "client": "US Air Force"
+    },
+    {
+      "client": "Microsoft Global Data Center Division"
+    },
+    {
+      "client": "T-Mobile"
+    }
+  ],
+  "education": {
+    "university": "University of Michigan",
+    "degree": "B.S. Mathematics",
+    "minor": "Computer Science"
+  },
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Python",
+    "Nodejs",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "PostgreSql",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI",
+    "C#",
+    "ASP.NET",
+    "Clojure",
+    "Apache Camel",
+    "Apache Kafka",
+    "RabbitMQ",
+    "MQTT",
+    "AMQP",
+    "XMPP",
+    "PULSAR",
+    "REST APIs",
+    "Microservices",
+    "GraphQL",
+    "CUDA",
+    "OpenCL",
+    "OpenGL",
+    "Vulkan",
+    "DirectX",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Snowflake",
+    "Oracle",
+    "MS SQL",
+    "JOOQ",
+    "Hibernate",
+    "Ibatis",
+    "VGGNet",
+    "AlexNet",
+    "GoogleNet",
+    "ResNet",
+    "Scikit-learn",
+    "XGBoost",
+    "LightGBM",
+    "Deep Learning: CNN",
+    "LSTM",
+    "GAN",
+    "Transformers",
+    "Hugging Face Transformers",
+    "Stanford CoreNLP",
+    "spaCy",
+    "NLTK",
+    "BERT",
+    "OpenCV",
+    "YOLO",
+    "R-CNN",
+    "Caffe",
+    "Theano",
+    "Apache MXNet",
+    "NumPy",
+    "SciPy",
+    "AWS",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "GitLab Pipeline",
+    "Travis CI",
+    "Terraform",
+    "Helm",
+    "Databricks",
+    "Apache Spark",
+    "Hadoop"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling",
+    "Principal Architect"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript",
+        "C#",
+        "C#",
+        "ASP.NET"
+      ]
+    },
+    {
+      "categoryName": "Frameworks/Libraries",
+      "technologies": [
+        "Spring Boot",
+        "Spring Cloud",
+        "Hazelcast",
+        "Zookeeper",
+        "ReactJS",
+        "Nodejs",
+        "MapBox",
+        "Unreal Engine",
+        "Cesium Ion",
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "MQTT"
+      ]
+    },
+    {
+      "categoryName": "Big Data Technologies",
+      "technologies": [
+        "Kafka",
+        "Kubernetes",
+        "Azure Data Factory & Databricks",
+        "Snowflake",
+        "Azure Map"
+      ]
+    },
+    {
+      "categoryName": "Databases",
+      "technologies": [
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "MsSql",
+        "Snowflake",
+        "Azure Data Factory & Databricks",
+        "PostgreSql"
+      ]
+    },
+    {
+      "categoryName": "Cloud Providers",
+      "technologies": [
+        "AWS",
+        "Azure Map",
+        "Azure Data Factory & Databricks",
+        "Docker",
+        "Kubernetes",
+        "TravisCI",
+        "Gitlab"
+      ]
+    },
+    {
+      "categoryName": "Testing Tools",
+      "technologies": [
+        "Selenium"
+      ]
+    },
+    {
+      "categoryName": "Computer Vision",
+      "technologies": [
+        "OpenCV"
+      ]
+    }
+  ]
+}

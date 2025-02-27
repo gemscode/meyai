@@ -1,0 +1,52 @@
+.resume-parser {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.chart-container {
+  width: 100%;
+  height: 800px;
+  border: 1px solid #eee;
+  margin: 20px 0;
+}
+
+h3 {
+  margin: 20px 0;
+  color: #333;
+}
+
+pre {
+  background: #f5f5f5;
+  padding: 15px;
+  border-radius: 4px;
+  overflow: auto;
+}
+
+styles: [`
+.header {
+  padding: 20px;
+  background-color: #fff;
+  margin-bottom: 20px;
+}
+
+.company-summary {
+  margin-top: 15px;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+  .company-summary h3 {
+    margin-bottom: 10px;
+    color: #2c3e50;
+  }
+
+  .company-summary p {
+    line-height: 1.6;
+    color: #34495e;
+  }
+
+`]
+

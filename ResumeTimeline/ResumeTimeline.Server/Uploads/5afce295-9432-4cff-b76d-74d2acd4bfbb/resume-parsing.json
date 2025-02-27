@@ -1,0 +1,333 @@
+{
+  "companies": [
+    {
+      "name": "Exadel (formerly Coppei)",
+      "startDate": "04/2021",
+      "endDate": "Present"
+    },
+    {
+      "name": "Neuron Edge Technologies LLC",
+      "startDate": "12/2019",
+      "endDate": "04/2021"
+    },
+    {
+      "name": "Speckeye Technology",
+      "startDate": "06/2012",
+      "endDate": "10/2019"
+    },
+    {
+      "name": "Fedaso || Orone Group",
+      "startDate": "04/2010",
+      "endDate": "05/2012"
+    }
+  ],
+  "projects": [
+    {
+      "client": "US Air Force"
+    },
+    {
+      "client": "Microsoft Global Data Center Division"
+    },
+    {
+      "client": "T-Mobile"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "degree": "B.S. Mathematics",
+      "minor": "Computer Science"
+    }
+  ],
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Nodejs",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "PostgreSql",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI",
+    "C++",
+    "Clojure",
+    "Apache Camel",
+    "Apache Kafka",
+    "RabbitMQ",
+    "MQTT",
+    "AMQP",
+    "XMPP",
+    "PULSAR",
+    "REST APIs",
+    "Microservices",
+    "GraphQL",
+    "CUDA",
+    "OpenCL",
+    "OpenGL",
+    "Vulkan",
+    "DirectX",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Snowflake",
+    "Oracle",
+    "MS SQL",
+    "JOOQ",
+    "Hibernate",
+    "Ibatis",
+    "VGGNet",
+    "AlexNet",
+    "GoogleNet",
+    "ResNet",
+    "Scikit-learn",
+    "XGBoost",
+    "LightGBM",
+    "Deep Learning: CNN",
+    "LSTM",
+    "GAN",
+    "Transformers",
+    "Hugging Face Transformers",
+    "Stanford CoreNLP",
+    "spaCy",
+    "NLTK",
+    "BERT",
+    "OpenCV",
+    "YOLO",
+    "R-CNN",
+    "Caffe",
+    "Theano",
+    "Apache MXNet",
+    "NumPy",
+    "SciPy",
+    "AWS",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "GitLab Pipeline",
+    "Travis CI",
+    "Terraform",
+    "Helm",
+    "Databricks",
+    "Apache Spark",
+    "Hadoop"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript",
+        "Clojure"
+      ]
+    },
+    {
+      "categoryName": "Application Servers/Frameworks",
+      "technologies": [
+        "Spring Boot",
+        "Spring Cloud",
+        "MuleSoft",
+        "Apache Camel",
+        "Apache Kafka",
+        "RabbitMQ",
+        "MQTT",
+        "AMQP",
+        "XMPP",
+        "PULSAR",
+        "REST APIs",
+        "Microservices",
+        "GraphQL"
+      ]
+    },
+    {
+      "categoryName": "Message Queues/Brokers",
+      "technologies": [
+        "Kafka",
+        "Hazelcast",
+        "Zookeeper",
+        "MQTT",
+        "AMQP",
+        "RabbitMQ",
+        "Apache Kafka",
+        "PULSAR"
+      ]
+    },
+    {
+      "categoryName": "Big Data/Data Processing",
+      "technologies": [
+        "Kubernetes",
+        "Azure Data Factory & Databricks",
+        "Spring Cloud",
+        "Hazelcast",
+        "Kafka",
+        "Azure Map",
+        "Apache Camel",
+        "Apache Kafka",
+        "Apache MXNet",
+        "NumPy",
+        "SciPy"
+      ]
+    },
+    {
+      "categoryName": "Cloud Providers",
+      "technologies": [
+        "Azure Map",
+        "AWS",
+        "Azure Data Factory & Databricks",
+        "MsSql",
+        "Gitlab",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "TravisCI"
+      ]
+    },
+    {
+      "categoryName": "Machine Learning/Deep Learning",
+      "technologies": [
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "Caffe",
+        "Apache MXNet",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "Deep Learning: CNN",
+        "LSTM",
+        "GAN",
+        "Transformers",
+        "Hugging Face Transformers",
+        "VGGNet",
+        "AlexNet",
+        "GoogleNet",
+        "ResNet",
+        "YOLO",
+        "R-CNN"
+      ]
+    },
+    {
+      "categoryName": "Natural Language Processing",
+      "technologies": [
+        "Stanford CoreNLP",
+        "spaCy",
+        "NLTK",
+        "BERT"
+      ]
+    },
+    {
+      "categoryName": "Computer Vision",
+      "technologies": [
+        "OpenCV",
+        "YOLO",
+        "R-CNN",
+        "Caffe"
+      ]
+    },
+    {
+      "categoryName": "UI Frameworks",
+      "technologies": [
+        "ReactJS",
+        "Nodejs",
+        "Unreal Engine",
+        "Cesium Ion",
+        "Java VisualVM",
+        "Visual Paradigm"
+      ]
+    },
+    {
+      "categoryName": "Database Systems",
+      "technologies": [
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "MsSql",
+        "Snowflake",
+        "OneTrust",
+        "Collibra",
+        "JMeter",
+        "MySQL Workbench",
+        "Prometheus",
+        "Grafana"
+      ]
+    },
+    {
+      "categoryName": "Testing Tools",
+      "technologies": [
+        "Selenium",
+        "JMeter",
+        "JAVA VisualVM",
+        "Wireshark"
+      ]
+    },
+    {
+      "categoryName": "Monitoring Tools",
+      "technologies": [
+        "Prometheus",
+        "Grafana",
+        "Splunk",
+        "Java VisualVM"
+      ]
+    }
+  ]
+}

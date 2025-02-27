@@ -1,0 +1,74 @@
+<div class="header">
+  <div class="header-left">
+    <h1>Resume Timeline</h1>
+  </div>
+  <div class="header-right">
+    <span *ngIf="resumeFileName" class="resume-filename">{{ resumeFileName }}</span>
+    <button mat-raised-button color="primary" (click)="openUploadDialog()">Upload Resume</button>
+  </div>
+</div>
+
+<div *ngIf="isProcessing" class="processing">
+  <p>Processing resume... Please wait</p>
+</div>
+
+<div class="tabs-search-container">
+  <div class="tabs-container">
+    <mat-tab-group mat-align-tabs="start"
+                   mat-stretch-tabs="false"
+                   [(selectedIndex)]="selectedTabIndex"
+                   (selectedTabChange)="onTabChange($event)">
+      <mat-tab label="Parsing"></mat-tab>
+      <mat-tab label="Matching"></mat-tab>
+    </mat-tab-group>
+  </div>
+  <div class="search-container">
+    <app-search (searchResultsChange)="onSearchResultsReceived($event)"></app-search>
+  </div>
+</div>
+
+<div class="content-container">
+  <!-- Search Results Panel -->
+  <div *ngIf="showSearchResults" class="search-results-panel">
+    <div class="search-results-header">
+      <h3>Search Results</h3>
+      <button class="close-button" (click)="closeSearchResults()">×</button>
+    </div>
+    <div class="search-results-content">
+      <div *ngFor="let result of searchResults">
+        <p>Paragraph ID: {{result.paragraph_id}}</p>
+        <p>{{result.text}}</p>
+        <p>Tags: {{result.tags.join(', ')}}</p>
+        <hr>
+      </div>
+    </div>
+  </div>
+
+  <!-- Tab Content -->
+  <div [ngSwitch]="selectedTabIndex">
+    <div *ngSwitchCase="0">
+      <app-parsing></app-parsing>
+      <h2>Projects</h2>
+      <ul>
+        <li *ngFor="let project of projects">
+          {{ project.name }} - {{ project.summary }}
+        </li>
+      </ul>
+    </div>
+    <div *ngSwitchCase="1">
+      <app-matching></app-matching>
+    </div>
+  </div>
+</div>
+
+<!-- Upload Dialog -->
+<div *ngIf="showUploadDialog" class="upload-dialog-overlay">
+  <div class="upload-dialog">
+    <h2>Upload Resume</h2>
+    <app-upload [userId]="userId" (fileSelected)="onFileSelected($event)"></app-upload>
+    <div class="dialog-actions">
+      <button mat-button (click)="closeUploadDialog()">Cancel</button>
+      <button mat-raised-button color="primary" (click)="uploadResume()" [disabled]="!selectedFile">Upload</button>
+    </div>
+  </div>
+</div>

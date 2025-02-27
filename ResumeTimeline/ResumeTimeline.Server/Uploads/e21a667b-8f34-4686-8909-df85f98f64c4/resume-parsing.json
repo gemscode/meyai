@@ -1,0 +1,274 @@
+{
+  "companies": [
+    {
+      "name": "Exadel (formerly Coppei)",
+      "startDate": "04/2021",
+      "endDate": "Present"
+    },
+    {
+      "name": "Neuron Edge Technologies LLC",
+      "startDate": "12/2019",
+      "endDate": "04/2021"
+    },
+    {
+      "name": "Speckeye Technology",
+      "startDate": "06/2012",
+      "endDate": "10/2019"
+    },
+    {
+      "name": "Fedaso || Orone Group",
+      "startDate": "04/2010",
+      "endDate": "05/2012"
+    }
+  ],
+  "projects": [
+    {
+      "client": "US Air Force"
+    },
+    {
+      "client": "Microsoft Global Data Center Division"
+    },
+    {
+      "client": "T-Mobile"
+    }
+  ],
+  "education": {
+    "University of Michigan": "B.S. Mathematics, Minor Computer Science"
+  },
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Nodejs",
+    "Python",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "PostgreSql",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript",
+        "Java",
+        "Nodejs",
+        "Vaadin Framework",
+        "Spring Boot",
+        "ReactJS",
+        "Spring Cloud",
+        "Hazelcast",
+        "Zookeeper",
+        "MQTT",
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "Graphite",
+        "Puppeteer",
+        "Python",
+        "Spring Boot",
+        "ReactJS",
+        "Hazlecast",
+        "Java",
+        "Nodejs"
+      ]
+    },
+    {
+      "categoryName": "Frameworks",
+      "technologies": [
+        "Spring Boot",
+        "MuleSoft",
+        "Kafka",
+        "Spring Cloud",
+        "Hazelcast",
+        "Zookeeper",
+        "Vaadin Framework",
+        "MapBox",
+        "Unreal Engine",
+        "Cesium Ion",
+        "Visual Paradigm"
+      ]
+    },
+    {
+      "categoryName": "Databases",
+      "technologies": [
+        "Azure Map",
+        "Azure Data Factory & Databricks",
+        "Snowflake",
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "MsSql",
+        "MySQL Workbench",
+        "Grafana"
+      ]
+    },
+    {
+      "categoryName": "Cloud Providers",
+      "technologies": [
+        "Azure Data Factory & Databricks",
+        "AWS",
+        "Azure Map",
+        "Docker",
+        "Kubernetes",
+        "MsSql",
+        "ELK Stack",
+        "Datadog",
+        "Custom probes for service metrics",
+        "Kubernetes Dashboard"
+      ]
+    },
+    {
+      "categoryName": "Containerization & Orchestration",
+      "technologies": [
+        "Docker",
+        "Kubernetes",
+        "Kubernetes",
+        "Kubernetes Dashboard"
+      ]
+    },
+    {
+      "categoryName": "Continuous Integration",
+      "technologies": [
+        "Gitlab",
+        "TravisCI"
+      ]
+    },
+    {
+      "categoryName": "Security",
+      "technologies": [
+        "GitGuardian",
+        "OneTrust",
+        "Collibra",
+        "Splunk"
+      ]
+    },
+    {
+      "categoryName": "Testing Tools",
+      "technologies": [
+        "Selenium",
+        "JMeter",
+        "iperf3",
+        "Wireshark",
+        "Java VisualVM",
+        "K6",
+        "Gatling",
+        "Apache Benchmark"
+      ]
+    },
+    {
+      "categoryName": "Monitoring Tools",
+      "technologies": [
+        "Prometheus",
+        "ELK Stack",
+        "Datadog",
+        "Splunk",
+        "Grafana"
+      ]
+    },
+    {
+      "categoryName": "Data Visualization Tools",
+      "technologies": [
+        "Azure Map",
+        "MapBox",
+        "Cesium Ion",
+        "Grafana"
+      ]
+    },
+    {
+      "categoryName": "ML/AI Libraries",
+      "technologies": [
+        "Tensorflow",
+        "Scikit"
+      ]
+    },
+    {
+      "categoryName": "Image Processing Libraries",
+      "technologies": [
+        "OpenCV"
+      ]
+    },
+    {
+      "categoryName": "Time Series Databases",
+      "technologies": [
+        "Graphite"
+      ]
+    },
+    {
+      "categoryName": "Message Queue",
+      "technologies": [
+        "Kafka",
+        "MQTT"
+      ]
+    },
+    {
+      "categoryName": "Version Control System",
+      "technologies": [
+        "Gitlab"
+      ]
+    }
+  ]
+}

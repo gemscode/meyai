@@ -1,0 +1,591 @@
+{
+  "companies": [
+    {
+      "name": "Exadel (formerly Coppei)",
+      "startDate": "04/2021",
+      "endDate": "Present"
+    },
+    {
+      "name": "Neuron Edge Technologies LLC",
+      "startDate": "12/2019",
+      "endDate": "04/2021"
+    },
+    {
+      "name": "Speckeye Technology",
+      "startDate": "06/2012",
+      "endDate": "10/2019"
+    },
+    {
+      "name": "Fedaso || Orone Group",
+      "startDate": "04/2010",
+      "endDate": "05/2012"
+    }
+  ],
+  "projects": [
+    {
+      "client": "US Air Force"
+    },
+    {
+      "client": "Microsoft Global Data Center Division"
+    },
+    {
+      "client": "T-Mobile"
+    }
+  ],
+  "education": "University of Michigan - B.S. Mathematics, Minor Computer Science",
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Python",
+    "Nodejs",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "PostgreSql",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI",
+    "Clojure",
+    "ASP.NET",
+    "Apache Camel",
+    "Apache Kafka",
+    "RabbitMQ",
+    "MQTT",
+    "AMQP",
+    "XMPP",
+    "PULSAR",
+    "REST APIs",
+    "Microservices",
+    "GraphQL",
+    "CUDA",
+    "OpenCL",
+    "OpenGL",
+    "Vulkan",
+    "DirectX",
+    "JOOQ",
+    "Hibernate",
+    "Ibatis",
+    "VGGNet",
+    "AlexNet",
+    "GoogleNet",
+    "ResNet",
+    "Scikit-learn",
+    "XGBoost",
+    "LightGBM",
+    "Deep Learning: CNN, LSTM, GAN, Transformers",
+    "Hugging Face Transformers",
+    "Stanford CoreNLP",
+    "spaCy",
+    "NLTK",
+    "BERT",
+    "OpenCV",
+    "YOLO",
+    "R-CNN",
+    "Caffe",
+    "Theano",
+    "Apache MXNet",
+    "NumPy",
+    "SciPy"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "Clojure",
+        "C",
+        "C#",
+        "R",
+        "Go",
+        "Rust",
+        "Swift",
+        "Kotlin",
+        "Scala",
+        "PHP",
+        "Ruby",
+        "Haskell",
+        "Lua",
+        "Perl",
+        "Erlang",
+        "Elixir",
+        "Julia",
+        "Groovy"
+      ]
+    },
+    {
+      "categoryName": "Frameworks/Libraries",
+      "technologies": [
+        "Spring Boot",
+        "Spring Cloud",
+        "MuleSoft",
+        "Kafka",
+        "MQTT",
+        "RabbitMQ",
+        "AMQP",
+        "XMPP",
+        "PULSAR",
+        "Apache Camel",
+        "Apache Kafka",
+        "Hazelcast",
+        "Zookeeper",
+        "Vaadin Framework",
+        "MapBox",
+        "Unreal Engine",
+        "Cesium Ion",
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "Graphite",
+        "Puppeteer",
+        "JOOQ",
+        "Hibernate",
+        "Ibatis",
+        "VGGNet",
+        "AlexNet",
+        "GoogleNet",
+        "ResNet",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "CUDA",
+        "OpenCL",
+        "OpenGL",
+        "Vulkan",
+        "DirectX",
+        "YOLO",
+        "R-CNN",
+        "Caffe",
+        "Theano",
+        "Apache MXNet",
+        "NumPy",
+        "SciPy",
+        "Stanford CoreNLP",
+        "spaCy",
+        "NLTK",
+        "BERT",
+        "GraphQL",
+        "CUDA",
+        "OpenCL",
+        "OpenGL",
+        "Vulkan",
+        "DirectX"
+      ]
+    },
+    {
+      "categoryName": "Databases",
+      "technologies": [
+        "Snowflake",
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "MsSql",
+        "Azure Data Factory & Databricks",
+        "Graphite",
+        "InfluxDB"
+      ]
+    },
+    {
+      "categoryName": "Cloud/Container Services",
+      "technologies": [
+        "Azure Map",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Azure Kubernetes Service",
+        "Elastic Container Service (ECS)",
+        "Kubernetes Dashboard",
+        "TravisCI",
+        "Gitlab"
+      ]
+    },
+    {
+      "categoryName": "CI/CD",
+      "technologies": [
+        "Gitlab",
+        "TravisCI"
+      ]
+    },
+    {
+      "categoryName": "Web Servers",
+      "technologies": [
+        "Nodejs",
+        "ReactJS",
+        "Apache",
+        "Nginx"
+      ]
+    },
+    {
+      "categoryName": "Data Streaming",
+      "technologies": [
+        "Kafka",
+        "MQTT",
+        "PULSAR"
+      ]
+    },
+    {
+      "categoryName": "Data Storage",
+      "technologies": [
+        "Azure Data Factory & Databricks",
+        "Azure Map",
+        "Snowflake",
+        "Azure Blob Storage",
+        "Amazon S3",
+        "Azure Queue Storage",
+        "Amazon SQS"
+      ]
+    },
+    {
+      "categoryName": "Data Processing",
+      "technologies": [
+        "Azure Data Factory & Databricks",
+        "Databricks",
+        "Spark",
+        "Flink",
+        "Storm",
+        "Beam"
+      ]
+    },
+    {
+      "categoryName": "Data Analysis",
+      "technologies": [
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "Graphite",
+        "Puppeteer",
+        "JOOQ",
+        "Hibernate",
+        "Ibatis",
+        "VGGNet",
+        "AlexNet",
+        "GoogleNet",
+        "ResNet",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "CUDA",
+        "OpenCL",
+        "OpenGL",
+        "Vulkan",
+        "DirectX",
+        "YOLO",
+        "R-CNN",
+        "Caffe",
+        "Theano",
+        "Apache MXNet",
+        "NumPy",
+        "SciPy"
+      ]
+    },
+    {
+      "categoryName": "Data Visualization",
+      "technologies": [
+        "Prometheus",
+        "Grafana",
+        "Kibana",
+        "Datadog",
+        "ELK Stack",
+        "Grafana",
+        "K6",
+        "Gatling",
+        "Apache Benchmark"
+      ]
+    },
+    {
+      "categoryName": "Monitoring/Tracing",
+      "technologies": [
+        "Prometheus",
+        "Grafana",
+        "Splunk",
+        "ELK Stack",
+        "Datadog",
+        "iperf3",
+        "Wireshark",
+        "Java VisualVM",
+        "Kubernetes Dashboard"
+      ]
+    },
+    {
+      "categoryName": "Security",
+      "technologies": [
+        "GitGuardian",
+        "OneTrust",
+        "Collibra",
+        "Selenium",
+        "Custom probes for service metrics"
+      ]
+    },
+    {
+      "categoryName": "Version Control",
+      "technologies": [
+        "Gitlab",
+        "Git",
+        "Mercurial"
+      ]
+    },
+    {
+      "categoryName": "Testing",
+      "technologies": [
+        "Selenium",
+        "JMeter",
+        "Java VisualVM",
+        "iperf3",
+        "Wireshark"
+      ]
+    },
+    {
+      "categoryName": "Machine Learning",
+      "technologies": [
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "Graphite",
+        "Puppeteer",
+        "JOOQ",
+        "Hibernate",
+        "Ibatis",
+        "VGGNet",
+        "AlexNet",
+        "GoogleNet",
+        "ResNet",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "CUDA",
+        "OpenCL",
+        "OpenGL",
+        "Vulkan",
+        "DirectX",
+        "YOLO",
+        "R-CNN",
+        "Caffe",
+        "Theano",
+        "Apache MXNet",
+        "NumPy",
+        "SciPy"
+      ]
+    },
+    {
+      "categoryName": "Deep Learning",
+      "technologies": [
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "Graphite",
+        "Puppeteer",
+        "JOOQ",
+        "Hibernate",
+        "Ibatis",
+        "VGGNet",
+        "AlexNet",
+        "GoogleNet",
+        "ResNet",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "CUDA",
+        "OpenCL",
+        "OpenGL",
+        "Vulkan",
+        "DirectX",
+        "YOLO",
+        "R-CNN",
+        "Caffe",
+        "Theano",
+        "Apache MXNet",
+        "NumPy",
+        "SciPy",
+        "Deep Learning: CNN, LSTM, GAN, Transformers, Hugging Face Transformers"
+      ]
+    },
+    {
+      "categoryName": "Natural Language Processing",
+      "technologies": [
+        "Stanford CoreNLP",
+        "spaCy",
+        "NLTK",
+        "BERT",
+        "OpenCV",
+        "YOLO",
+        "R-CNN",
+        "Caffe",
+        "Theano",
+        "Apache MXNet",
+        "NumPy",
+        "SciPy"
+      ]
+    },
+    {
+      "categoryName": "Data Science",
+      "technologies": [
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "Graphite",
+        "Puppeteer",
+        "JOOQ",
+        "Hibernate",
+        "Ibatis",
+        "VGGNet",
+        "AlexNet",
+        "GoogleNet",
+        "ResNet",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "CUDA",
+        "OpenCL",
+        "OpenGL",
+        "Vulkan",
+        "DirectX",
+        "YOLO",
+        "R-CNN",
+        "Caffe",
+        "Theano",
+        "Apache MXNet",
+        "NumPy",
+        "SciPy"
+      ]
+    },
+    {
+      "categoryName": "Microservices",
+      "technologies": [
+        "Spring Boot",
+        "Spring Cloud",
+        "MuleSoft",
+        "Apache Camel",
+        "RabbitMQ",
+        "MQTT",
+        "AMQP",
+        "XMPP",
+        "PULSAR",
+        "REST APIs",
+        "ASP.NET",
+        "Nodejs",
+        "ReactJS"
+      ]
+    },
+    {
+      "categoryName": "APIs",
+      "technologies": [
+        "REST APIs",
+        "GraphQL",
+        "gRPC"
+      ]
+    },
+    {
+      "categoryName": "Visualization Tools",
+      "technologies": [
+        "Visual Paradigm",
+        "MySQL Workbench",
+        "Prometheus",
+        "Grafana",
+        "Kibana",
+        "Datadog",
+        "ELK Stack"
+      ]
+    },
+    {
+      "categoryName": "Container Orchestration",
+      "technologies": [
+        "Kubernetes",
+        "Docker",
+        "Azure Kubernetes Service",
+        "Elastic Container Service (ECS)"
+      ]
+    },
+    {
+      "categoryName": "Virtualization",
+      "technologies": [
+        "VirtualBox",
+        "VMware",
+        "KVM",
+        "QEMU",
+        "Docker",
+        "Azure Virtual Machines",
+        "Amazon EC2"
+      ]
+    },
+    {
+      "categoryName": "Hardware Acceleration",
+      "technologies": [
+        "CUDA",
+        "OpenCL"
+      ]
+    },
+    {
+      "categoryName": "Performance Testing",
+      "technologies": [
+        "JMeter",
+        "Java VisualVM",
+        "iperf3",
+        "Wireshark",
+        "K6",
+        "Gatling",
+        "Apache Benchmark"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "companies": [
+    {
+      "name": "Exadel (formerly Coppei)",
+      "startDate": "04/2021",
+      "endDate": "Present"
+    },
+    {
+      "name": "Neuron Edge Technologies LLC",
+      "startDate": "12/2019",
+      "endDate": "04/2021"
+    },
+    {
+      "name": "Speckeye Technology",
+      "startDate": "06/2012",
+      "endDate": "10/2019"
+    },
+    {
+      "name": "Fedaso || Orone Group",
+      "startDate": "04/2010",
+      "endDate": "05/2012"
+    },
+    {
+      "name": "Additional Experience",
+      "startDate": "",
+      "endDate": "Present"
+    }
+  ],
+  "projects": [
+    {
+      "client": "US Air Force"
+    },
+    {
+      "client": "Microsoft Global Data Center Division"
+    },
+    {
+      "client": "T-Mobile"
+    }
+  ],
+  "education": {
+    "University": "University of Michigan",
+    "Degree": "B.S. Mathematics",
+    "Minor": "Computer Science"
+  },
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Nodejs",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "PostgreSql",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI",
+    "C#",
+    "Clojure",
+    "ASP.NET",
+    "Apache Camel",
+    "Apache Kafka",
+    "RabbitMQ",
+    "MQTT",
+    "AMQP",
+    "XMPP",
+    "PULSAR",
+    "REST APIs",
+    "Microservices",
+    "GraphQL",
+    "CUDA",
+    "OpenCL",
+    "OpenGL",
+    "Vulkan",
+    "DirectX",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Snowflake",
+    "Oracle",
+    "MS SQL",
+    "JOOQ",
+    "Hibernate",
+    "Ibatis",
+    "VGGNet",
+    "AlexNet",
+    "GoogleNet",
+    "ResNet",
+    "Scikit-learn",
+    "XGBoost",
+    "LightGBM",
+    "Deep Learning: CNN",
+    "LSTM",
+    "GAN",
+    "Transformers",
+    "Hugging Face Transformers",
+    "Stanford CoreNLP",
+    "spaCy",
+    "NLTK",
+    "BERT",
+    "OpenCV",
+    "YOLO",
+    "R-CNN",
+    "Caffe",
+    "Theano",
+    "Apache MXNet",
+    "NumPy",
+    "SciPy",
+    "AWS",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "GitLab Pipeline",
+    "Travis CI",
+    "Terraform",
+    "Helm",
+    "Databricks",
+    "Apache Spark",
+    "Hadoop"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling",
+    "Principal Architect"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript",
+        "C#",
+        "Clojure",
+        "R-CNN",
+        "Caffe",
+        "Theano",
+        "Apache MXNet",
+        "NumPy",
+        "SciPy",
+        "BERT",
+        "YOLO",
+        "CUDA",
+        "OpenCL",
+        "OpenGL",
+        "Vulkan",
+        "DirectX",
+        "Clojure",
+        "C#",
+        "ASP.NET"
+      ]
+    },
+    {
+      "categoryName": "Frameworks and Libraries",
+      "technologies": [
+        "Spring Boot",
+        "Spring Cloud",
+        "Spring",
+        "ReactJS",
+        "Nodejs",
+        "MuleSoft",
+        "Kafka",
+        "Hazelcast",
+        "Zookeeper",
+        "Vaadin Framework",
+        "MapBox",
+        "Unreal Engine",
+        "Cesium Ion",
+        "Tensorflow",
+        "Scikit",
+        "Graphite",
+        "Puppeteer",
+        "RabbitMQ",
+        "AMQP",
+        "XMPP",
+        "PULSAR",
+        "Hibernate",
+        "Ibatis",
+        "VGGNet",
+        "AlexNet",
+        "GoogleNet",
+        "ResNet",
+        "XGBoost",
+        "LightGBM",
+        "Deep Learning: CNN",
+        "LSTM",
+        "GAN",
+        "Transformers",
+        "Hugging Face Transformers",
+        "Stanford CoreNLP",
+        "spaCy",
+        "NLTK"
+      ]
+    },
+    {
+      "categoryName": "Databases",
+      "technologies": [
+        "Azure Map",
+        "Azure Data Factory & Databricks",
+        "Snowflake",
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "MsSql",
+        "MsSql",
+        "MongoDB",
+        "JOOQ",
+        "Snowflake"
+      ]
+    },
+    {
+      "categoryName": "DevOps and Cloud",
+      "technologies": [
+        "Kubernetes",
+        "Azure",
+        "AWS",
+        "Docker",
+        "GitLab Pipeline",
+        "Travis CI",
+        "Terraform",
+        "Helm",
+        "Databricks",
+        "Apache Spark",
+        "Hadoop",
+        "Gitlab",
+        "GitGuardian",
+        "TravisCI",
+        "Docker",
+        "Kubernetes",
+        "Azure Map",
+        "Azure Data Factory & Databricks",
+        "AWS",
+        "Terraform",
+        "Helm",
+        "Databricks",
+        "Apache Spark",
+        "Hadoop"
+      ]
+    },
+    {
+      "categoryName": "Integration",
+      "technologies": [
+        "MQTT",
+        "AMQP",
+        "XMPP",
+        "Apache Camel",
+        "Apache Kafka",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "categoryName": "APIs and Microservices",
+      "technologies": [
+        "REST APIs",
+        "Microservices",
+        "GraphQL"
+      ]
+    },
+    {
+      "categoryName": "Visualization",
+      "technologies": [
+        "MapBox",
+        "Unreal Engine",
+        "Cesium Ion"
+      ]
+    },
+    {
+      "categoryName": "Testing",
+      "technologies": [
+        "Selenium",
+        "OneTrust",
+        "Collibra",
+        "JMeter",
+        "Splunk"
+      ]
+    },
+    {
+      "categoryName": "IDEs and Workbenches",
+      "technologies": [
+        "MySQL Workbench",
+        "Visual Paradigm"
+      ]
+    },
+    {
+      "categoryName": "ML/DL Tools",
+      "technologies": [
+        "Tensorflow",
+        "Scikit",
+        "Graphite",
+        "Puppeteer"
+      ]
+    },
+    {
+      "categoryName": "CV Tools",
+      "technologies": [
+        "OpenCV",
+        "YOLO",
+        "R-CNN",
+        "Caffe"
+      ]
+    },
+    {
+      "categoryName": "NLP Tools",
+      "technologies": [
+        "Stanford CoreNLP",
+        "spaCy",
+        "NLTK",
+        "BERT"
+      ]
+    },
+    {
+      "categoryName": "Others",
+      "technologies": [
+        "Theano",
+        "PULSAR",
+        "Hugging Face Transformers",
+        "VGGNet",
+        "AlexNet",
+        "GoogleNet",
+        "ResNet",
+        "XGBoost",
+        "LightGBM",
+        "LSTM",
+        "GAN",
+        "Transformers",
+        "OpenGL",
+        "Vulkan",
+        "DirectX"
+      ]
+    }
+  ],
+  "project_technology_links": [
+    {
+      "company": "Exadel (formerly Coppei)",
+      "projects": [
+        {
+          "name": "Autonomous flight simulation for US Air Force",
+          "technologies": [
+            "Cesium Ion",
+            "Unreal Engine",
+            "C++",
+            "Java",
+            "Python",
+            "TypeScript",
+            "Kafka",
+            "Spring Boot",
+            "Kubernetes",
+            "Azure Map",
+            "Spring Cloud",
+            "Hazelcast",
+            "Zookeeper",
+            "ReactJS",
+            "Nodejs",
+            "Vaadin Framework",
+            "MapBox",
+            "Cesium Ion",
+            "Snowflake",
+            "Oracle",
+            "MySql",
+            "PostgreSql",
+            "MsSql",
+            "Gitlab",
+            "GitGuardian",
+            "Selenium",
+            "OneTrust",
+            "Collibra",
+            "Hashicorp",
+            "Visual Paradigm"
+          ],
+          "description": "Developed autonomous flight simulation MVP for US Air Force, incorporating Cesium Ion for navigation training. Architected integration of AirSim with QGroundControl and PX4 server, implementing physics-based weather modeling and collision detection in Unreal Engine with real-world environmental conditions. Created mission planning system with semantic segmentation models for terrain analysis. Designed custom Unreal Engine plugins for AirSim Jet Controller."
+        },
+        {
+          "name": "Supply chain visualization platform for Microsoft Global Data Center Division",
+          "technologies": [
+            "CesiumJS",
+            "Unreal Engine",
+            "C++",
+            "Java",
+            "Python",
+            "TypeScript",
+            "Spring Boot",
+            "Kafka",
+            "ReactJS",
+            "Nodejs",
+            "Azure Maps",
+            "Mapbox"
+          ],
+          "description": "Architected end-to-end supply chain visualization platform integrating Azure Maps, Mapbox, CesiumJS and Cesium Ion with Unreal Engine for comprehensive 2D/3D tracking of data center equipment. Developed custom Unreal Engine plugin enabling bidirectional communication between embedded Chromium browser and Unreal Engine for seamless web-to-3D integration. Created React-based dashboard with Node.js backend for monitoring global logistics network including ports, airports, warehouses, and assembly facilities. Implemented multi-layer visualization system: 2D routing and tracking using Azure Maps with Mapbox routing engine, 3D visualization in Cesium Ion with Google Photorealistic 3D Tiles, Real-time 3D facility visualization in Unreal Engine."
+        },
+        {
+          "name": "T-Mobile Privacy Platform",
+          "technologies": [
+            "C++",
+            "Java",
+            "Python",
+            "TypeScript",
+            "Spring Boot",
+            "Kafka",
+            "MuleSoft",
+            "Kubernetes",
+            "Azure Map",
+            "Azure Data Factory & Databricks",
+            "Spring Cloud",
+            "Hazelcast",
+            "Zookeeper",
+            "ReactJS",
+            "Nodejs",
+            "Vaadin Framework",
+            "MapBox",
+            "Unreal Engine",
+            "Cesium Ion",
+            "Snowflake",
+            "Oracle",
+            "MySql",
+            "PostgreSql",
+            "MsSql",
+            "Gitlab",
+            "GitGuardian",
+            "Selenium",
+            "OneTrust",
+            "Collibra",
+            "Hashicorp",
+            "Visual Paradigm"
+          ],
+          "description": "Architect, construct, and deliver hands-on enterprise solutions for T-Mobile Privacy Platform to optimize functionality for organization. Oversee diverse Engineering, DevOps, and Testing teams, involving organizing daily stand-up meetings, coordinating working sessions, providing mentorship, conducting code reviews, and ensuring security compliance. Collaborate cross-functionally and employed Agile methodologies by engaging with multiple teams, such as legal, product, marketing, security/fraud, and 3rd party vendors."
+        }
+      ]
+    },
+    {
+      "company": "Neuron Edge Technologies LLC",
+      "projects": [
+        {
+          "name": "Scalable sensor platform",
+          "technologies": [
+            "Java",
+            "Python",
+            "Nodejs",
+            "Spring Boot",
+            "ReactJS",
+            "Hazlecast",
+            "MQTT",
+            "Tensorflow",
+            "Scikit",
+            "OpenCV",
+            "Graphite",
+            "Puppeteer",
+            "PostgreSql",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "TravisCI"
+          ],
+          "description": "Designed and executed scalable sensor platform connected to cloud by facilitating near real-time data collection and empowering customers in implementing automated adjustments. Utilized machine learning, reinforcement learning, GAN/LSTM networks, unsupervised learning methods, and integrated computer vision algorithms with OpenCV for advanced and efficient solutions."
+        }
+      ]
+    },
+    {
+      "company": "Speckeye Technology",
+      "projects": [
+        {
+          "name": "Check processing platform with AI and Deep Learning engine",
+          "technologies": [
+            "C#",
+            "ASP.NET",
+            "Nodejs",
+            "Spring Boot",
+            "ReactJS",
+            "Hazlecast",
+            "MQTT",
+            "Tensorflow",
+            "Scikit",
+            "OpenCV"
+          ],
+          "description": "Achieved 99.3% accuracy in deciphering hand-written courtesy amounts by designing, formulating, and executing check processing platform with AI and Deep Learning engine."
+        },
+        {
+          "name": "Dynamic foreign exchange platform with currency options trading",
+          "technologies": [
+            "C#",
+            "ASP.NET",
+            "Nodejs",
+            "Spring Boot",
+            "ReactJS",
+            "Hazlecast",
+            "MQTT"
+          ],
+          "description": "Managed annual volume surpassing €2B, incorporating Black-Scholes model by creating dynamic foreign exchange platform with currency options trading."
+        },
+        {
+          "name": "Currency trading platform frontend migration to Angular",
+          "technologies": [
+            "C#",
+            "ASP.NET",
+            "Nodejs",
+            "Spring Boot",
+            "ReactJS",
+            "Hazlecast",
+            "MQTT"
+          ],
+          "description": "Migrated Flash-based frontend of a currency trading platform to Angular, enabling real-time updates and order processing for forex and commodity trading."
+        },
+        {
+          "name": "Automated contract validation platform",
+          "technologies": [
+            "C#",
+            "ASP.NET",
+            "Nodejs",
+            "Spring Boot",
+            "ReactJS",
+            "Hazlecast",
+            "MQTT"
+          ],
+          "description": "Secured 1M+ telecommunication contracts and generated financial reports daily by developing extremely scalable and automated contract validation platform."
+        }
+      ]
+    },
+    {
+      "company": "Fedaso || Orone Group",
+      "projects": [
+        {
+          "name": "EBP’s public tender platform upgrade",
+          "technologies": [
+            "C#",
+            "ASP.NET",
+            "Nodejs",
+            "Spring Boot",
+            "ReactJS",
+            "Hazlecast",
+            "MQTT"
+          ],
+          "description": "Developed EBP’s public tender platform upgrade using C#.NET backend and ASP.NET frontend, implementing MVC design patterns and separation of concerns. Migrated business logic from stored procedures to dedicated business layer with caching for improved scalability. Created automated B2B tender matching system with custom notification engine for client defined criteria."
+        }
+      ]
+    },
+    {
+      "company": "Additional Experience",
+      "projects": [
+        {
+          "name": "Additional Projects",
+          "technologies": [
+            "Apache MXNet",
+            "Transformers",
+            "GoogleNet",
+            "XMPP",
+            "CUDA",
+            "SciPy",
+            "Helm",
+            "MySQL Workbench",
+            "BERT",
+            "PULSAR",
+            "Theano",
+            "Microservices",
+            "Travis CI",
+            "Vulkan",
+            "Caffe",
+            "Ibatis",
+            "XGBoost",
+            "VGGNet",
+            "DirectX",
+            "OpenGL",
+            "LightGBM",
+            "Azure",
+            "Databricks",
+            "spaCy",
+            "Hadoop",
+            "YOLO",
+            "NumPy",
+            "REST APIs",
+            "Clojure",
+            "NLTK",
+            "Apache Spark",
+            "Apache Camel",
+            "JMeter",
+            "Splunk",
+            "ResNet",
+            "Hibernate",
+            "OpenCL",
+            "RabbitMQ",
+            "AMQP",
+            "Stanford CoreNLP",
+            "Deep Learning: CNN",
+            "GraphQL",
+            "Terraform",
+            "GitLab Pipeline",
+            "Apache Kafka",
+            "GAN",
+            "Hugging Face Transformers",
+            "R-CNN",
+            "LSTM",
+            "JOOQ",
+            "Spring",
+            "AlexNet",
+            "MongoDB"
+          ],
+          "description": "Additional technical experience and tools"
+        }
+      ]
+    }
+  ]
+}

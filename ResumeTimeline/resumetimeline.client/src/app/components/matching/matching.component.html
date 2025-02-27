@@ -1,0 +1,21 @@
+<div class="matching-component">
+  <h2>Resume/Job Description Matching</h2>
+  <div class="input-section">
+    <label for="jobDescription">Job Description:</label>
+    <textarea id="jobDescription" [(ngModel)]="jobDescription" rows="10" cols="50"></textarea>
+    <button (click)="submitMatching()">Submit</button>
+  </div>
+
+  <div *ngIf="matchResult" class="results-section">
+    <div #histogramChart style="width:100%; height:400px;"></div>
+    <div class="matches-explanation">
+      <h3>Top Matches Explanation</h3>
+      <div *ngFor="let match of matchResult.top_matches">
+        <p>{{match.criterion}}: {{match.percentage}}%</p>
+      </div>
+    </div>
+  </div>
+  <div *ngIf="errorMessage" class="error-message">
+    {{ errorMessage }}
+  </div>
+</div>

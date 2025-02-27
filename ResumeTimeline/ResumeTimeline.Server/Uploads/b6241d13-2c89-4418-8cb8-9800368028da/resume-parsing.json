@@ -1,0 +1,99 @@
+{
+  "companies": [
+    "Exadel (formerly Coppei)",
+    "Neuron Edge Technologies LLC",
+    "Speckeye Technology",
+    "Fedaso || Orone Group"
+  ],
+  "projects": [
+    {
+      "client": "US Air Force",
+      "title": "Autonomous Flight Simulation MVP"
+    },
+    {
+      "client": "Microsoft Global Data Center Division",
+      "title": "Supply Chain Visualization Platform"
+    },
+    {
+      "client": "T-Mobile",
+      "title": "T-Mobile Privacy Platform"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "degree": "B.S. Mathematics",
+      "minor": "Computer Science"
+    }
+  ],
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Nodejs",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "PostgreSql",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling"
+  ],
+  "technology_categories": []
+}

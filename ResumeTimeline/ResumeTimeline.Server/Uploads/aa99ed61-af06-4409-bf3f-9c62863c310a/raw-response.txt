@@ -1,0 +1,271 @@
+{
+  "companies": [
+    "Exadel (formerly Coppei)",
+    "Neuron Edge Technologies LLC",
+    "Speckeye Technology",
+    "Fedaso || Orone Group"
+  ],
+  "projects": [
+    {
+      "client": "US Air Force",
+      "title": "Autonomous Flight Simulation MVP",
+      "technologies": [
+        "Cesium Ion",
+        "Unreal Engine",
+        "QGroundControl",
+        "PX4 server",
+        "C++"
+      ]
+    },
+    {
+      "client": "Microsoft Global Data Center Division",
+      "title": "Supply Chain Visualization Platform",
+      "technologies": [
+        "Azure Maps",
+        "Mapbox",
+        "CesiumJS",
+        "Cesium Ion",
+        "Unreal Engine",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "client": "T-Mobile",
+      "title": "Enterprise Solutions for T-Mobile Privacy Platform"
+    },
+    {
+      "client": "Speckeye Technology",
+      "title": "Sensor Platform",
+      "technologies": [
+        "Java",
+        "Python",
+        "Node.js",
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "education": [
+    "University of Michigan",
+    "B.S. Mathematics, Minor Computer Science"
+  ],
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Nodejs",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "PostgreSql",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript",
+        "Java",
+        "Nodejs",
+        "Vaadin Framework",
+        "Java",
+        "Nodejs",
+        "ReactJS",
+        "Spring Boot",
+        "Hazelcast",
+        "MQTT",
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "categoryName": "Web Frameworks & Libraries",
+      "technologies": [
+        "Spring Boot",
+        "MuleSoft",
+        "ReactJS",
+        "Vaadin Framework",
+        "MapBox",
+        "Unreal Engine",
+        "Cesium Ion",
+        "Puppeteer",
+        "PostgreSql",
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "categoryName": "Message Brokers & Messaging Queues",
+      "technologies": [
+        "Kafka",
+        "Spring Cloud",
+        "Hazelcast",
+        "Zookeeper",
+        "MQTT"
+      ]
+    },
+    {
+      "categoryName": "Data Storage & Processing",
+      "technologies": [
+        "Azure Map",
+        "Azure Data Factory & Databricks",
+        "Snowflake",
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "MsSql",
+        "Gitlab",
+        "GitGuardian",
+        "Splunk",
+        "ELK Stack",
+        "Datadog",
+        "Custom probes for service metrics",
+        "MySQL Workbench",
+        "Graphite",
+        "Datadog",
+        "Custom probes for service metrics",
+        "MySQL Workbench",
+        "Prometheus",
+        "Grafana",
+        "K6",
+        "Gatling",
+        "Apache Benchmark",
+        "Kubernetes Dashboard",
+        "ELK Stack",
+        "Datadog"
+      ]
+    },
+    {
+      "categoryName": "Container & Cloud Technologies",
+      "technologies": [
+        "Kubernetes",
+        "Azure Map",
+        "Azure Data Factory & Databricks",
+        "Snowflake",
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "MsSql",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "TravisCI"
+      ]
+    },
+    {
+      "categoryName": "Data Science & Machine Learning",
+      "technologies": [
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "Graphite"
+      ]
+    },
+    {
+      "categoryName": "Testing Tools & Frameworks",
+      "technologies": [
+        "Selenium",
+        "OneTrust",
+        "Collibra",
+        "JMeter",
+        "iperf3",
+        "Wireshark",
+        "Java VisualVM",
+        "K6",
+        "Gatling",
+        "Apache Benchmark"
+      ]
+    },
+    {
+      "categoryName": "Monitoring & Visualization Tools",
+      "technologies": [
+        "Prometheus",
+        "Grafana",
+        "ELK Stack",
+        "Datadog",
+        "Kubernetes Dashboard"
+      ]
+    },
+    {
+      "categoryName": "Version Control Systems",
+      "technologies": [
+        "Gitlab",
+        "GitGuardian"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+<div class="upload-container">
+  @if (!isProcessing) {
+  <div class="upload-section">
+    <input type="file"
+           (change)="onFileSelected($event)"
+           accept=".docx"
+           class="file-input" />
+    <button [disabled]="!selectedFile"
+            (click)="uploadResume()"
+            class="upload-button">
+      Upload Resume
+    </button>
+  </div>
+  }
+
+  @if (isProcessing) {
+  <div class="processing">
+    <p>Processing resume... Please wait</p>
+  </div>
+  }
+
+  @if (uploadMessage) {
+  <div class="message-section">
+    <p [class]="{'success-message': !uploadMessage.includes('failed'),
+                   'error-message': uploadMessage.includes('failed')}">
+      {{ uploadMessage }}
+    </p>
+  </div>
+  }
+</div>

@@ -1,0 +1,285 @@
+{
+  "companies": [
+    "Exadel (formerly Coppei)",
+    "Neuron Edge Technologies LLC",
+    "Speckeye Technology",
+    "Fedaso || Orone Group"
+  ],
+  "projects": [
+    {
+      "client": "US Air Force",
+      "details": [
+        "Developed autonomous flight simulation MVP for US Air Force, incorporating Cesium Ion for navigation training",
+        "Architected integration of AirSim with QGroundControl and PX4 server, implementing physics-based weather modeling and collision detection in Unreal Engine with real-world environmental conditions",
+        "Created mission planning system with semantic segmentation models for terrain analysis",
+        "Designed custom Unreal Engine plugins for AirSim Jet Controller"
+      ]
+    },
+    {
+      "client": "Microsoft Global Data Center Division",
+      "details": [
+        "Architected end-to-end supply chain visualization platform integrating Azure Maps, Mapbox, CesiumJS and Cesium Ion with Unreal Engine for comprehensive 2D/3D tracking of data center equipment",
+        "Developed custom Unreal Engine plugin enabling bidirectional communication between embedded Chromium browser and Unreal Engine for seamless web-to-3D integration",
+        "Created React-based dashboard with Node.js backend for monitoring global logistics network including ports, airports, warehouses, and assembly facilities",
+        "Implemented multi-layer visualization system:",
+        "2D routing and tracking using Azure Maps with Mapbox routing engine",
+        "3D visualization in Cesium Ion with Google Photorealistic 3D Tiles",
+        "Real-time 3D facility visualization in Unreal Engine",
+        "Created custom React components for seamless switching between 2D and 3D views of supply chain operations"
+      ]
+    },
+    {
+      "client": "T-Mobile",
+      "details": [
+        "Architect, construct, and deliver hands-on enterprise solutions for T-Mobile Privacy Platform to optimize functionality for organization. Oversee diverse Engineering, DevOps, and Testing teams, involving organizing daily stand-up meetings, coordinating working sessions, providing mentorship, conducting code reviews, and ensuring security compliance. Collaborate cross-functionally and employed Agile methodologies by engaging with multiple teams, such as legal, product, marketing, security/fraud, and 3rd party vendors.",
+        "Automated onboarding of 1K+ internal/external systems for processing privacy requests across T-Mobile's customer base by spearheading conceptualization and delivery of agent-based solutions, while serving as Principal Architect and Developer.",
+        "Generated reports for trends, auditing, compliance, and various other purposes by leading architecture, design, and development of reporting and analytics platforms for delivering insights to all privacy-related products.",
+        "Delivered comprehensive designs, diagrams, specifications, user guides, documentation, and sample code for effective implementation and development processes.",
+        "Led development of impactful proof of concepts, innovative tooling, and utilities to enhance efficiency and functionality within project as hands-on technical lead."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "degree": "B.S. Mathematics",
+      "minor": "Computer Science"
+    }
+  ],
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Python",
+    "Nodejs",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "PostgreSql",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript",
+        "Java",
+        "Nodejs",
+        "Vaadin Framework",
+        "ReactJS",
+        "Spring Boot",
+        "MQTT",
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Java",
+        "Python",
+        "Nodejs",
+        "Spring Boot",
+        "ReactJS"
+      ]
+    },
+    {
+      "categoryName": "Backend Frameworks",
+      "technologies": [
+        "Spring Boot",
+        "Spring Cloud",
+        "Kafka",
+        "MuleSoft",
+        "Kubernetes",
+        "Azure Data Factory & Databricks",
+        "Spring Cloud",
+        "Hazelcast",
+        "Zookeeper",
+        "Azure Map",
+        "Kubernetes Dashboard"
+      ]
+    },
+    {
+      "categoryName": "Frontend Frameworks",
+      "technologies": [
+        "ReactJS",
+        "Nodejs",
+        "Vaadin Framework",
+        "MapBox",
+        "Unreal Engine",
+        "Cesium Ion",
+        "Puppeteer",
+        "PostgreSql"
+      ]
+    },
+    {
+      "categoryName": "Big Data & Analytics",
+      "technologies": [
+        "Azure Data Factory & Databricks",
+        "Kafka",
+        "Hazelcast",
+        "Zookeeper",
+        "Graphite",
+        "Datadog",
+        "ELK Stack",
+        "Prometheus",
+        "Grafana",
+        "K6",
+        "Gatling",
+        "Apache Benchmark",
+        "Custom probes for service metrics",
+        "Snowflake",
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "MsSql"
+      ]
+    },
+    {
+      "categoryName": "DevOps & Cloud",
+      "technologies": [
+        "Kubernetes",
+        "Docker",
+        "AWS",
+        "Azure Map",
+        "TravisCI",
+        "Gitlab",
+        "GitGuardian",
+        "Selenium",
+        "OneTrust",
+        "Collibra",
+        "Hashicorp",
+        "MySQL Workbench",
+        "Java VisualVM",
+        "Kubernetes Dashboard",
+        "ELK Stack",
+        "Datadog",
+        "Custom probes for service metrics",
+        "Prometheus",
+        "Grafana",
+        "K6",
+        "Gatling",
+        "Apache Benchmark"
+      ]
+    },
+    {
+      "categoryName": "Testing Tools",
+      "technologies": [
+        "JMeter",
+        "Splunk",
+        "iperf3",
+        "Wireshark",
+        "Selenium",
+        "OneTrust",
+        "Collibra",
+        "Gitlab",
+        "GitGuardian"
+      ]
+    },
+    {
+      "categoryName": "Visualization Tools",
+      "technologies": [
+        "Visual Paradigm",
+        "Java VisualVM",
+        "Prometheus",
+        "Grafana",
+        "K6",
+        "Gatling",
+        "Apache Benchmark",
+        "Kubernetes Dashboard",
+        "ELK Stack",
+        "Datadog"
+      ]
+    },
+    {
+      "categoryName": "Monitoring Tools",
+      "technologies": [
+        "Splunk",
+        "iperf3",
+        "Wireshark",
+        "JMeter",
+        "Prometheus",
+        "Grafana",
+        "K6",
+        "Gatling",
+        "Apache Benchmark",
+        "ELK Stack",
+        "Datadog"
+      ]
+    },
+    {
+      "categoryName": "Containerization & Virtualization",
+      "technologies": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure Map",
+        "Kubernetes Dashboard",
+        "ELK Stack",
+        "Datadog",
+        "Custom probes for service metrics"
+      ]
+    }
+  ]
+}

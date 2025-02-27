@@ -1,0 +1,606 @@
+{
+  "companies": [
+    {
+      "name": "Exadel (formerly Coppei)",
+      "startDate": "04/2021",
+      "endDate": "Present"
+    },
+    {
+      "name": "Neuron Edge Technologies LLC",
+      "startDate": "12/2019",
+      "endDate": "04/2021"
+    },
+    {
+      "name": "Speckeye Technology",
+      "startDate": "06/2012",
+      "endDate": "10/2019"
+    },
+    {
+      "name": "Fedaso || Orone Group",
+      "startDate": "04/2010",
+      "endDate": "05/2012"
+    },
+    {
+      "name": "Additional Experience",
+      "startDate": "",
+      "endDate": "Present"
+    }
+  ],
+  "projects": [
+    {
+      "client": "US Air Force"
+    },
+    {
+      "client": "Microsoft Global Data Center Division"
+    },
+    {
+      "client": "T-Mobile"
+    }
+  ],
+  "education": {
+    "university": "University of Michigan",
+    "degree": "B.S. Mathematics",
+    "minor": "Computer Science"
+  },
+  "technologies": [
+    "C++",
+    "Java",
+    "Python",
+    "TypeScript",
+    "Spring Boot",
+    "Kafka",
+    "MuleSoft",
+    "Kubernetes",
+    "Azure Map",
+    "Azure Data Factory & Databricks",
+    "Spring Cloud",
+    "Hazelcast",
+    "Zookeeper",
+    "ReactJS",
+    "Nodejs",
+    "Vaadin Framework",
+    "MapBox",
+    "Unreal Engine",
+    "Cesium Ion",
+    "Snowflake",
+    "Oracle",
+    "MySql",
+    "PostgreSql",
+    "MsSql",
+    "Gitlab",
+    "GitGuardian",
+    "Selenium",
+    "OneTrust",
+    "Collibra",
+    "Hashicorp",
+    "Visual Paradigm",
+    "JMeter",
+    "Splunk",
+    "iperf3",
+    "Wireshark",
+    "Java VisualVM",
+    "Prometheus",
+    "Grafana",
+    "K6",
+    "Gatling",
+    "Apache Benchmark",
+    "Kubernetes Dashboard",
+    "ELK Stack",
+    "Datadog",
+    "Custom probes for service metrics",
+    "MySQL Workbench",
+    "Java",
+    "Nodejs",
+    "Spring Boot",
+    "ReactJS",
+    "Hazlecast",
+    "MQTT",
+    "Tensorflow",
+    "Scikit",
+    "OpenCV",
+    "Graphite",
+    "Puppeteer",
+    "PostgreSql",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TravisCI",
+    "Java",
+    "C#",
+    "Clojure",
+    "ASP.NET",
+    "Spring Suite (Boot 3.2, Security, Cloud, Data)",
+    "Apache Camel",
+    "Apache Kafka",
+    "RabbitMQ",
+    "MQTT",
+    "AMQP",
+    "XMPP",
+    "PULSAR",
+    "REST APIs",
+    "Microservices",
+    "GraphQL",
+    "CUDA",
+    "OpenCL",
+    "OpenGL",
+    "Vulkan",
+    "DirectX",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Snowflake",
+    "Oracle",
+    "MS SQL",
+    "JOOQ",
+    "Hibernate",
+    "Ibatis",
+    "VGGNet",
+    "AlexNet",
+    "GoogleNet",
+    "ResNet",
+    "Scikit-learn",
+    "XGBoost",
+    "LightGBM",
+    "Deep Learning: CNN, LSTM, GAN, Transformers",
+    "Hugging Face Transformers",
+    "Stanford CoreNLP",
+    "spaCy",
+    "NLTK",
+    "BERT",
+    "OpenCV",
+    "YOLO",
+    "R-CNN",
+    "Caffe",
+    "Theano",
+    "Apache MXNet",
+    "NumPy",
+    "SciPy",
+    "AWS",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "GitLab Pipeline",
+    "Travis CI",
+    "Terraform",
+    "Helm",
+    "Databricks",
+    "Apache Spark",
+    "Hadoop",
+    "React.js",
+    "Angular",
+    "SwiftUI",
+    "Vaadin",
+    "Redux",
+    "MobX",
+    "Webpack",
+    "Babel",
+    "Tailwind",
+    "Material-UI",
+    "Jest",
+    "Cypress",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "Raspberry Pi",
+    "NVIDIA Jetson",
+    "Odroid",
+    "UDOO x86",
+    "Arduino",
+    "IBM 308x-309x series mainframes running MVS (TSO Shell)",
+    "DOS/VSE",
+    "IBM x.86 PCs/Servers running Windows and Linux",
+    "English",
+    "French"
+  ],
+  "titles": [
+    "Principal Software Engineer",
+    "Enterprise Software Principal Architect",
+    "Principal Architect - Software Development & Tooling",
+    "Principal Architect"
+  ],
+  "technology_categories": [
+    {
+      "categoryName": "Programming Languages",
+      "technologies": [
+        "C++",
+        "Java",
+        "Python",
+        "TypeScript",
+        "Java",
+        "C#",
+        "Clojure",
+        "C",
+        "SwiftUI",
+        "Ruby",
+        "English",
+        "French"
+      ]
+    },
+    {
+      "categoryName": "Backend Technologies",
+      "technologies": [
+        "Spring Boot",
+        "Spring Cloud",
+        "Spring Suite (Boot 3.2, Security, Cloud, Data)",
+        "Apache Camel",
+        "Apache Kafka",
+        "RabbitMQ",
+        "MQTT",
+        "AMQP",
+        "XMPP",
+        "PULSAR",
+        "REST APIs",
+        "Microservices",
+        "GraphQL",
+        "CUDA",
+        "OpenCL",
+        "CUDA",
+        "OpenCL",
+        "DirectX",
+        "Vulkan",
+        "JOOQ",
+        "Hibernate",
+        "Ibatis"
+      ]
+    },
+    {
+      "categoryName": "Frontend Technologies",
+      "technologies": [
+        "ReactJS",
+        "Nodejs",
+        "TypeScript",
+        "JavaScript (ES6+)",
+        "Angular",
+        "SwiftUI",
+        "Vaadin",
+        "React.js",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "categoryName": "Cloud Technologies",
+      "technologies": [
+        "Azure Map",
+        "Azure Data Factory & Databricks",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Google Cloud",
+        "IBM Cloud",
+        "Alibaba Cloud",
+        "Oracle Cloud",
+        "Huawei Cloud",
+        "Rackspace Cloud",
+        "DigitalOcean",
+        "Linode",
+        "CloudSigma",
+        "VMware Cloud",
+        "OpenStack",
+        "Citrix Cloud",
+        "Tencent Cloud",
+        "Salesforce",
+        "ServiceNow",
+        "Workday"
+      ]
+    },
+    {
+      "categoryName": "Data Technologies",
+      "technologies": [
+        "Kafka",
+        "Kubernetes",
+        "Azure Data Factory & Databricks",
+        "Spring Cloud",
+        "Hazelcast",
+        "Zookeeper",
+        "Snowflake",
+        "Oracle",
+        "MySql",
+        "PostgreSql",
+        "MsSql",
+        "Gitlab",
+        "Selenium",
+        "OneTrust",
+        "Collibra",
+        "Hashicorp",
+        "Visual Paradigm",
+        "JMeter",
+        "Splunk",
+        "Tensorflow",
+        "Scikit",
+        "OpenCV",
+        "PostgreSQL",
+        "MongoDB",
+        "Snowflake",
+        "Oracle",
+        "MS SQL",
+        "JOOQ",
+        "Hibernate",
+        "Ibatis",
+        "VGGNet",
+        "AlexNet",
+        "GoogleNet",
+        "ResNet",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "Deep Learning: CNN, LSTM, GAN, Transformers",
+        "Hugging Face Transformers",
+        "Stanford CoreNLP",
+        "spaCy",
+        "NLTK",
+        "BERT",
+        "OpenCV",
+        "React.js",
+        "Angular",
+        "SwiftUI",
+        "Vaadin",
+        "TypeScript",
+        "JavaScript (ES6+)",
+        "Raspberry Pi",
+        "NVIDIA Jetson",
+        "Odroid",
+        "UDOO x86",
+        "Arduino"
+      ]
+    },
+    {
+      "categoryName": "Game Engines",
+      "technologies": [
+        "Unreal Engine",
+        "Cesium Ion",
+        "MapBox",
+        "Unity",
+        "Godot",
+        "GameMaker Studio",
+        "Construct",
+        "Cocos2d-x",
+        "Phaser",
+        "PlayCanvas",
+        "Lumberyard",
+        "CryEngine",
+        "Godot",
+        "RPG Maker",
+        "GameSalad"
+      ]
+    },
+    {
+      "categoryName": "GIS Technologies",
+      "technologies": [
+        "Azure Map",
+        "MapBox",
+        "Cesium Ion"
+      ]
+    }
+  ],
+  "project_technology_links": [
+    {
+      "company": "Exadel (formerly Coppei)",
+      "projects": [
+        {
+          "name": "Autonomous flight simulation MVP for US Air Force",
+          "technologies": [
+            "Cesium Ion",
+            "Unreal Engine",
+            "C++",
+            "Java"
+          ],
+          "description": "Developed MVP for US Air Force incorporating Cesium Ion for navigation training, architected integration of AirSim with QGroundControl and PX4 server, implemented physics-based weather modeling and collision detection in Unreal Engine with real-world environmental conditions, created mission planning system with semantic segmentation models for terrain analysis, designed custom Unreal Engine plugins for AirSim Jet Controller"
+        },
+        {
+          "name": "End-to-end supply chain visualization platform for Microsoft Global Data Center Division",
+          "technologies": [
+            "Azure Maps",
+            "Mapbox",
+            "CesiumJS",
+            "Cesium Ion",
+            "Unreal Engine",
+            "React",
+            "Node.js",
+            "TypeScript"
+          ],
+          "description": "Architected platform integrating Azure Maps, Mapbox, CesiumJS and Cesium Ion with Unreal Engine for comprehensive 2D/3D tracking of data center equipment, developed custom Unreal Engine plugin enabling bidirectional communication between embedded Chromium browser and Unreal Engine for seamless web-to-3D integration, created React-based dashboard with Node.js backend for monitoring global logistics network including ports, airports, warehouses, and assembly facilities, implemented multi-layer visualization system: 2D routing and tracking using Azure Maps with Mapbox routing engine, 3D visualization in Cesium Ion with Google Photorealistic 3D Tiles, real-time 3D facility visualization in Unreal Engine, created custom React components for seamless switching between 2D and 3D views of supply chain operations"
+        },
+        {
+          "name": "T-Mobile Privacy Platform",
+          "technologies": [
+            "Spring Boot",
+            "Kafka",
+            "MuleSoft",
+            "Kubernetes",
+            "Azure Map",
+            "Spring Cloud",
+            "Hazelcast",
+            "Zookeeper",
+            "ReactJS",
+            "Nodejs",
+            "Vaadin Framework",
+            "MapBox",
+            "Unreal Engine",
+            "Cesium Ion",
+            "Snowflake",
+            "Oracle",
+            "MySql",
+            "PostgreSql",
+            "MsSql",
+            "Gitlab",
+            "GitGuardian",
+            "Selenium",
+            "OneTrust",
+            "Collibra",
+            "Hashicorp",
+            "Visual Paradigm"
+          ],
+          "description": "Architected, constructed, and delivered hands-on enterprise solutions for T-Mobile Privacy Platform to optimize functionality for organization, automated onboarding of 1K+ internal/external systems for processing privacy requests across T-Mobile's customer base, generated reports for trends, auditing, compliance, and various other purposes by leading architecture, design, and development of reporting and analytics platforms for delivering insights to all privacy-related products, delivered comprehensive designs, diagrams, specifications, user guides, documentation, and sample code for effective implementation and development processes"
+        }
+      ]
+    },
+    {
+      "company": "Neuron Edge Technologies LLC",
+      "projects": [
+        {
+          "name": "Scalable sensor platform",
+          "technologies": [
+            "Java",
+            "Python",
+            "Nodejs",
+            "Spring Boot",
+            "ReactJS",
+            "Hazlecast",
+            "MQTT",
+            "Tensorflow",
+            "Scikit",
+            "OpenCV"
+          ],
+          "description": "Designed and executed scalable sensor platform connected to cloud, facilitated near real-time data collection, empowered customers in implementing automated adjustments, utilized machine learning, reinforcement learning, GAN/LSTM networks, unsupervised learning methods, and integrated computer vision algorithms with OpenCV for advanced and efficient solutions"
+        }
+      ]
+    },
+    {
+      "company": "Speckeye Technology",
+      "projects": [
+        {
+          "name": "Check processing platform with AI and Deep Learning engine",
+          "technologies": [
+            "AI",
+            "Deep Learning"
+          ],
+          "description": "Designed, formulated, and executed check processing platform with AI and Deep Learning engine, achieved 99.3% accuracy in deciphering hand-written courtesy amounts"
+        },
+        {
+          "name": "Dynamic foreign exchange platform with currency options trading",
+          "technologies": [
+            "Black-Scholes model"
+          ],
+          "description": "Managed annual volume surpassing €2B, incorporating Black-Scholes model by creating dynamic foreign exchange platform with currency options trading"
+        },
+        {
+          "name": "Currency trading platform with real-time updates and order processing",
+          "technologies": [
+            "Angular"
+          ],
+          "description": "Migrated Flash-based frontend of a currency trading platform to Angular, enabling real-time updates and order processing for forex and commodity trading including futures and options"
+        },
+        {
+          "name": "Automated contract validation platform",
+          "technologies": [
+            "C#",
+            "ASP.NET"
+          ],
+          "description": "Developed extremely scalable and automated contract validation platform, secured 1M+ telecommunication contracts and generated financial reports daily"
+        },
+        {
+          "name": "IoT devices for KYC onboarding processes",
+          "technologies": [
+            "IoT"
+          ],
+          "description": "Streamlined KYC onboarding processes by developing Internet of Things (IoT) devices"
+        }
+      ]
+    },
+    {
+      "company": "Fedaso || Orone Group",
+      "projects": [
+        {
+          "name": "EBP’s public tender platform upgrade",
+          "technologies": [
+            "C#",
+            "ASP.NET"
+          ],
+          "description": "Developed EBP’s public tender platform upgrade using C#.NET backend and ASP.NET frontend, implementing MVC design patterns and separation of concerns, migrated business logic from stored procedures to dedicated business layer with caching for improved scalability, created automated B2B tender matching system with custom notification engine for client defined criteria"
+        }
+      ]
+    },
+    {
+      "company": "Additional Experience",
+      "projects": [
+        {
+          "name": "Additional Projects",
+          "technologies": [
+            "RabbitMQ",
+            "MS SQL",
+            "GameSalad",
+            "CloudSigma",
+            "GraphQL",
+            "Odroid",
+            "Docker",
+            "NVIDIA Jetson",
+            "Ruby",
+            "Phaser",
+            "Cocos2d-x",
+            "Vaadin",
+            "Raspberry Pi",
+            "Tencent Cloud",
+            "Lumberyard",
+            "VMware Cloud",
+            "CUDA",
+            "DigitalOcean",
+            "XMPP",
+            "VGGNet",
+            "Google Cloud",
+            "Workday",
+            "English",
+            "French",
+            "Clojure",
+            "CSS",
+            "PlayCanvas",
+            "REST APIs",
+            "Oracle Cloud",
+            "IBM Cloud",
+            "Rackspace Cloud",
+            "DirectX",
+            "SwiftUI",
+            "JavaScript (ES6+)",
+            "Arduino",
+            "React.js",
+            "ServiceNow",
+            "spaCy",
+            "MongoDB",
+            "UDOO x86",
+            "Ibatis",
+            "Azure Data Factory & Databricks",
+            "OpenStack",
+            "Godot",
+            "Deep Learning: CNN, LSTM, GAN, Transformers",
+            "Hugging Face Transformers",
+            "AlexNet",
+            "Scikit-learn",
+            "Unity",
+            "Citrix Cloud",
+            "Huawei Cloud",
+            "AMQP",
+            "LightGBM",
+            "Apache Kafka",
+            "Vulkan",
+            "ResNet",
+            "Alibaba Cloud",
+            "Construct",
+            "JMeter",
+            "PostgreSQL",
+            "Linode",
+            "HTML",
+            "XGBoost",
+            "Salesforce",
+            "NLTK",
+            "BERT",
+            "CryEngine",
+            "Stanford CoreNLP",
+            "Spring Suite (Boot 3.2, Security, Cloud, Data)",
+            "C",
+            "JOOQ",
+            "Microservices",
+            "PULSAR",
+            "Hibernate",
+            "RPG Maker",
+            "AWS",
+            "Splunk",
+            "GameMaker Studio",
+            "GoogleNet",
+            "Apache Camel",
+            "OpenCL"
+          ],
+          "description": "Additional technical experience and tools"
+        }
+      ]
+    }
+  ]
+}
