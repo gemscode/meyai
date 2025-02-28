@@ -5,6 +5,8 @@ import { ParsingComponent } from './components/parsing/parsing.component';
 import { MatchingComponent } from './components/matching/matching.component';
 import { UploadComponent } from './components/upload/upload.component';
 import { SearchComponent } from './components/search/search.component';
+import { BuilderComponent } from './components/builder/builder.component';
+import { CompanyDialogComponent } from './components/builder/dialog/company.component';
 import { Router, RouterModule } from '@angular/router';
 import { MatTabsModule } from '@angular/material/tabs';
 import { MatDialogModule, MatDialog } from '@angular/material/dialog';
@@ -29,7 +31,7 @@ interface SearchResult {
   templateUrl: './app.component.html',
   //standalone: true,
   styleUrls: ['./app.component.css'],
-  imports: [CommonModule, ParsingComponent, MatchingComponent, UploadComponent, SearchComponent, RouterModule, MatTabsModule, MatDialogModule]
+  imports: [CommonModule, ParsingComponent, MatchingComponent, UploadComponent, SearchComponent, RouterModule, MatTabsModule, MatDialogModule, BuilderComponent]
 })
 export class AppComponent implements OnInit {
   public projects: Project[] = [];
@@ -148,6 +150,8 @@ export class AppComponent implements OnInit {
       this.router.navigate(['parsing']);
     } else if (tabIndex === 1) {
       this.router.navigate(['matching']);
+    } else if (tabIndex === 2) {
+      this.router.navigate(['builder']);
     }
   }
 

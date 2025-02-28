@@ -1,0 +1,32 @@
+<h2 mat-dialog-title>Add New Company</h2>
+<mat-dialog-content>
+  <form [formGroup]="companyForm">
+    <mat-form-field appearance="fill" class="full-width">
+      <mat-label>Company Name</mat-label>
+      <input matInput formControlName="name" required>
+      <mat-error *ngIf="companyForm.get('name')?.hasError('required')">
+        Company name is required
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="full-width">
+      <mat-label>From Date</mat-label>
+      <input matInput [matDatepicker]="fromPicker" formControlName="fromDate">
+      <mat-datepicker-toggle matSuffix [for]="fromPicker"></mat-datepicker-toggle>
+      <mat-datepicker #fromPicker></mat-datepicker>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="full-width" *ngIf="!companyForm.get('isCurrent')?.value">
+      <mat-label>To Date</mat-label>
+      <input matInput [matDatepicker]="toPicker" formControlName="toDate">
+      <mat-datepicker-toggle matSuffix [for]="toPicker"></mat-datepicker-toggle>
+      <mat-datepicker #toPicker></mat-datepicker>
+    </mat-form-field>
+
+    <mat-checkbox formControlName="isCurrent">Current Position</mat-checkbox>
+  </form>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button (click)="onCancel()">Cancel</button>
+  <button mat-raised-button color="primary" [disabled]="companyForm.invalid" (click)="onSubmit()">Add</button>
+</mat-dialog-actions>

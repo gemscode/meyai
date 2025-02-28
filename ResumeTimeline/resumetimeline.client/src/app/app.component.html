@@ -20,7 +20,9 @@
                    (selectedTabChange)="onTabChange($event)">
       <mat-tab label="Parsing"></mat-tab>
       <mat-tab label="Matching"></mat-tab>
+      <mat-tab label="Builder"></mat-tab>
     </mat-tab-group>
+
   </div>
   <div class="search-container">
     <app-search (searchResultsChange)="onSearchResultsReceived($event)"></app-search>
@@ -57,6 +59,9 @@
     </div>
     <div *ngSwitchCase="1">
       <app-matching></app-matching>
+    </div>
+    <div *ngSwitchCase="2">
+      <app-builder></app-builder>
     </div>
   </div>
 </div>

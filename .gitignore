@@ -484,15 +484,15 @@ $RECYCLE.BIN/
 *.swp
 
 # Python environment in middleware
-middleware/venv/
-middleware/.venv/
-middleware/resume_env/
-middleware/.python-version
-middleware/pyenv/
-middleware/.pyenv/
+ResumeTimeline/middleware/venv/
+ResumeTimeline/middleware/.venv/
+ResumeTimeline/middleware/resume_env/
+ResumeTimeline/middleware/.python-version
+ResumeTimeline/middleware/pyenv/
+ResumeTimeline/middleware/.pyenv/
 
 # Test documentation
-middleware/TestDocs/
+ResumeTimeline/middleware/TestDocs/
 
 # Exclude uploads folder
 ResumeTimeline/ResumeTimelineServer/Uploads/

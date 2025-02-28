@@ -1,0 +1,97 @@
+<div class="builder-container">
+  <h2>Experience Builder</h2>
+
+  <div class="builder-content">
+    <!-- Left side - Input -->
+    <div class="input-section">
+      <h3>Input Experience</h3>
+
+      <form [formGroup]="experienceForm">
+        <div class="company-selection">
+          <mat-form-field appearance="fill" class="full-width">
+            <mat-label>Select Company</mat-label>
+            <mat-select formControlName="companyId">
+              <mat-option *ngFor="let company of companies" [value]="company.id">
+                {{ company.name }}
+              </mat-option>
+              <mat-option [value]="'new'" (click)="openCompanyDialog()">
+                + Add New Company
+              </mat-option>
+            </mat-select>
+            <mat-error *ngIf="experienceForm.get('companyId')?.hasError('required')">
+              Company is required
+            </mat-error>
+          </mat-form-field>
+        </div>
+
+        <div class="title-input">
+          <mat-form-field appearance="fill" class="full-width">
+            <mat-label>Job Title (Optional)</mat-label>
+            <input matInput formControlName="title">
+          </mat-form-field>
+        </div>
+
+        <div class="description-input">
+          <mat-form-field appearance="fill" class="full-width">
+            <mat-label>Experience Description</mat-label>
+            <textarea matInput formControlName="description" rows="10"></textarea>
+            <mat-error *ngIf="experienceForm.get('description')?.hasError('required')">
+              Description is required
+            </mat-error>
+          </mat-form-field>
+        </div>
+
+        <div class="action-buttons">
+          <button mat-raised-button color="primary"
+                  [disabled]="experienceForm.invalid || isProcessing"
+                  (click)="produceRefinedExperience()">
+            <mat-icon>auto_awesome</mat-icon> Produce
+          </button>
+        </div>
+      </form>
+    </div>
+
+    <!-- Right side - Output -->
+    <div class="output-section">
+      <h3>Refined Experience</h3>
+
+      <div class="company-display" [class.disabled]="!refinedExperience">
+        <mat-form-field appearance="fill" class="full-width" disabled>
+          <mat-label>Company</mat-label>
+          <input matInput [value]="getCompanyName()" disabled>
+        </mat-form-field>
+      </div>
+
+      <div class="title-display" [class.disabled]="!refinedExperience">
+        <mat-form-field appearance="fill" class="full-width" disabled>
+          <mat-label>Job Title</mat-label>
+          <input matInput [value]="experienceForm.get('title')?.value || ''" disabled>
+        </mat-form-field>
+      </div>
+
+      <div class="description-display" [class.disabled]="!refinedExperience">
+        <mat-form-field appearance="fill" class="full-width">
+          <mat-label>Refined Description</mat-label>
+          <textarea matInput rows="10" [value]="refinedExperience?.description || ''" disabled></textarea>
+        </mat-form-field>
+      </div>
+
+      <div class="action-buttons" [class.disabled]="!refinedExperience">
+        <button mat-raised-button color="primary" [disabled]="!refinedExperience" (click)="saveExperience()">
+          <mat-icon>save</mat-icon> Save
+        </button>
+        <button mat-raised-button color="accent" [disabled]="!refinedExperience" (click)="furtherRefine()">
+          <mat-icon>refresh</mat-icon> Refine Further
+        </button>
+        <button mat-raised-button [disabled]="!refinedExperience" (click)="clearRefinement()">
+          <mat-icon>clear</mat-icon> Clear
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div *ngIf="isProcessing" class="processing-overlay">
+    <mat-spinner></mat-spinner>
+    <p>Processing with AI...</p>
+  </div>
+</div>
